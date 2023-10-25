@@ -2,11 +2,13 @@ import { Aggregate, IResult, Ok, UID } from 'types-ddd';
 import { ApplicationStatusLog } from './application-status-log.vo';
 import { ApplicationStatusUpdate } from './application-status-update.en';
 import { PermitType } from './permit-type.vo';
+import { BuildingType } from './building-type.vo';
 
 export interface ApplicationProps {
   id?: UID;
   statusLog: ApplicationStatusLog;
   permitType: PermitType;
+  buildingType: BuildingType;
 }
 
 export class Application extends Aggregate<ApplicationProps> {
@@ -23,6 +25,7 @@ export class Application extends Aggregate<ApplicationProps> {
     const propsWithDefaults: ApplicationProps = {
       statusLog: ApplicationStatusLog.createWithDefaults().value(),
       permitType: PermitType.createWithDefaults().value(),
+      buildingType: BuildingType.createWithDefaults().value(),
       ...props,
     };
     return this.create(propsWithDefaults);
