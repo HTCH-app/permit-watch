@@ -1,0 +1,6498 @@
+[
+  {
+    "id": "0",
+    "district-th": "อากาศอำนวย",
+    "province-th": "สกลนคร",
+    "district-en": "Akat Amnuai",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "1",
+    "district-th": "อัมพวา",
+    "province-th": "สมุทรสงคราม",
+    "district-en": "Amphawa",
+    "province-en": "Samut Songkhram"
+  },
+  {
+    "id": "2",
+    "district-th": "อ่าวลึก",
+    "province-th": "กระบี่",
+    "district-en": "Ao Luek",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "3",
+    "district-th": "อรัญประเทศ",
+    "province-th": "สระแก้ว",
+    "district-en": "Aranyaprathet",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "4",
+    "district-th": "อาจสามารถ",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "At Samat",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "5",
+    "district-th": "บาเจาะ",
+    "province-th": "นราธิวาส",
+    "district-en": "Bacho",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "6",
+    "district-th": "บำเหน็จณรงค์",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Bamnet Narong",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "7",
+    "district-th": "บ้านบึง",
+    "province-th": "ชลบุรี",
+    "district-en": "Ban Bueng",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "8",
+    "district-th": "บ้านฉาง",
+    "province-th": "ระยอง",
+    "district-en": "Ban Chang",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "9",
+    "district-th": "บ้านด่าน",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Ban Dan",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "10",
+    "district-th": "บ้านด่านลานหอย",
+    "province-th": "สุโขทัย",
+    "district-en": "Ban Dan Lan Hoi",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "11",
+    "district-th": "บ้านดุง",
+    "province-th": "อุดรธานี",
+    "district-en": "Ban Dung",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "12",
+    "district-th": "บ้านฝาง",
+    "province-th": "ขอนแก่น",
+    "district-en": "Ban Fang",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "13",
+    "district-th": "บ้านแฮด",
+    "province-th": "ขอนแก่น",
+    "district-en": "Ban Haet",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "14",
+    "district-th": "บ้านโฮ่ง",
+    "province-th": "ลำพูน",
+    "district-en": "Ban Hong",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "15",
+    "district-th": "บ้านคา",
+    "province-th": "ราชบุรี",
+    "district-en": "Ban Kha",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "16",
+    "district-th": "บ้านค่าย",
+    "province-th": "ระยอง",
+    "district-en": "Ban Khai",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "17",
+    "district-th": "บ้านโคก",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Ban Khok",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "18",
+    "district-th": "บ้านเขว้า",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Ban Khwao",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "19",
+    "district-th": "บ้านกรวด",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Ban Kruat",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "20",
+    "district-th": "บ้านแหลม",
+    "province-th": "เพชรบุรี",
+    "district-en": "Ban Laem",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "21",
+    "district-th": "บ้านลาด",
+    "province-th": "เพชรบุรี",
+    "district-en": "Ban Lat",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "22",
+    "district-th": "บ้านหลวง",
+    "province-th": "น่าน",
+    "district-en": "Ban Luang",
+    "province-en": "Nan"
+  },
+  {
+    "id": "23",
+    "district-th": "บ้านเหลื่อม",
+    "province-th": "นครราชสีมา",
+    "district-en": "Ban Lueam",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "24",
+    "district-th": "บ้านใหม่ไชยพจน์",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Ban Mai Chaiyaphot",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "25",
+    "district-th": "บ้านหมี่",
+    "province-th": "ลพบุรี",
+    "district-en": "Ban Mi",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "26",
+    "district-th": "บ้านหมอ",
+    "province-th": "สระบุรี",
+    "district-en": "Ban Mo",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "27",
+    "district-th": "บ้านม่วง",
+    "province-th": "สกลนคร",
+    "district-en": "Ban Muang",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "28",
+    "district-th": "บ้านนา",
+    "province-th": "นครนายก",
+    "district-en": "Ban Na",
+    "province-en": "Nakhon Nayok"
+  },
+  {
+    "id": "29",
+    "district-th": "บ้านนาเดิม",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Ban Na Doem",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "30",
+    "district-th": "บ้านนาสาร",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Ban Na San",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "31",
+    "district-th": "บ้านแพง",
+    "province-th": "นครพนม",
+    "district-en": "Ban Phaeng",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "32",
+    "district-th": "บ้านแพ้ว",
+    "province-th": "สมุทรสาคร",
+    "district-en": "Ban Phaeo",
+    "province-en": "Samut Sakhon"
+  },
+  {
+    "id": "33",
+    "district-th": "บ้านไผ่",
+    "province-th": "ขอนแก่น",
+    "district-en": "Ban Phai",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "34",
+    "district-th": "บ้านโพธิ์",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Ban Pho",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "35",
+    "district-th": "บ้านแพรก",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Ban Phraek",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "36",
+    "district-th": "บ้านผือ",
+    "province-th": "อุดรธานี",
+    "district-en": "Ban Phue",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "37",
+    "district-th": "บ้านโป่ง",
+    "province-th": "ราชบุรี",
+    "district-en": "Ban Pong",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "38",
+    "district-th": "บ้านไร่",
+    "province-th": "อุทัยธานี",
+    "district-en": "Ban Rai",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "39",
+    "district-th": "บ้านสร้าง",
+    "province-th": "ปราจีนบุรี",
+    "district-en": "Ban Sang",
+    "province-en": "Prachinburi"
+  },
+  {
+    "id": "40",
+    "district-th": "บ้านตาขุน",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Ban Ta Khun",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "41",
+    "district-th": "บ้านตาก",
+    "province-th": "ตาก",
+    "district-en": "Ban Tak",
+    "province-en": "Tak"
+  },
+  {
+    "id": "42",
+    "district-th": "บ้านแท่น",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Ban Thaen",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "43",
+    "district-th": "บ้านธิ",
+    "province-th": "ลำพูน",
+    "district-en": "Ban Thi",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "44",
+    "district-th": "บางบาล",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Bang Ban",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "45",
+    "district-th": "บางบ่อ",
+    "province-th": "สมุทรปราการ",
+    "district-en": "Bang Bo",
+    "province-en": "Samut Prakan"
+  },
+  {
+    "id": "46",
+    "district-th": "บางบัวทอง",
+    "province-th": "นนทบุรี",
+    "district-en": "Bang Bua Thong",
+    "province-en": "Nonthaburi"
+  },
+  {
+    "id": "47",
+    "district-th": "บางแก้ว",
+    "province-th": "พัทลุง",
+    "district-en": "Bang Kaeo",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "48",
+    "district-th": "บางขัน",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Bang Khan",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "49",
+    "district-th": "บางคล้า",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Bang Khla",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "50",
+    "district-th": "บางคนที",
+    "province-th": "สมุทรสงคราม",
+    "district-en": "Bang Khonthi",
+    "province-en": "Samut Songkhram"
+  },
+  {
+    "id": "51",
+    "district-th": "บางกล่ำ",
+    "province-th": "สงขลา",
+    "district-en": "Bang Klam",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "52",
+    "district-th": "บางกระทุ่ม",
+    "province-th": "พิษณุโลก",
+    "district-en": "Bang Krathum",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "53",
+    "district-th": "บางกรวย",
+    "province-th": "นนทบุรี",
+    "district-en": "Bang Kruai",
+    "province-en": "Nonthaburi"
+  },
+  {
+    "id": "54",
+    "district-th": "บางละมุง",
+    "province-th": "ชลบุรี",
+    "district-en": "Bang Lamung",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "55",
+    "district-th": "บางเลน",
+    "province-th": "นครปฐม",
+    "district-en": "Bang Len",
+    "province-en": "Nakhon Pathom"
+  },
+  {
+    "id": "56",
+    "district-th": "บางมูลนาก",
+    "province-th": "พิจิตร",
+    "district-en": "Bang Mun Nak",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "57",
+    "district-th": "บางน้ำเปรี้ยว",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Bang Nam Priao",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "58",
+    "district-th": "บางปะอิน",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Bang Pa-in",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "59",
+    "district-th": "บางปะหัน",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Bang Pahan",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "60",
+    "district-th": "บางปะกง",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Bang Pakong",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "61",
+    "district-th": "บางแพ",
+    "province-th": "ราชบุรี",
+    "district-en": "Bang Phae",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "62",
+    "district-th": "บางพลี",
+    "province-th": "สมุทรปราการ",
+    "district-en": "Bang Phli",
+    "province-en": "Samut Prakan"
+  },
+  {
+    "id": "63",
+    "district-th": "บางปลาม้า",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Bang Pla Ma",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "64",
+    "district-th": "บางระจัน",
+    "province-th": "สิงห์บุรี",
+    "district-en": "Bang Rachan",
+    "province-en": "Sing Buri"
+  },
+  {
+    "id": "65",
+    "district-th": "บางระกำ",
+    "province-th": "พิษณุโลก",
+    "district-en": "Bang Rakam",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "66",
+    "district-th": "บางไทร",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Bang Sai 1404",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "67",
+    "district-th": "บางซ้าย",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Bang Sai 1413",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "68",
+    "district-th": "บางเสาธง",
+    "province-th": "สมุทรปราการ",
+    "district-en": "Bang Sao Thong",
+    "province-en": "Samut Prakan"
+  },
+  {
+    "id": "69",
+    "district-th": "บางสะพาน",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Bang Saphan",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "70",
+    "district-th": "บางสะพานน้อย",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Bang Saphan Noi",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "71",
+    "district-th": "บางใหญ่",
+    "province-th": "นนทบุรี",
+    "district-en": "Bang Yai",
+    "province-en": "Nonthaburi"
+  },
+  {
+    "id": "72",
+    "district-th": "บันนังสตา",
+    "province-th": "ยะลา",
+    "district-en": "Bannang Sata",
+    "province-en": "Yala"
+  },
+  {
+    "id": "73",
+    "district-th": "บรรพตพิสัย",
+    "province-th": "นครสวรรค์",
+    "district-en": "Banphot Phisai",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "74",
+    "district-th": "เบญจลักษ์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Benchalak",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "75",
+    "district-th": "เบตง",
+    "province-th": "ยะลา",
+    "district-en": "Betong",
+    "province-en": "Yala"
+  },
+  {
+    "id": "76",
+    "district-th": "บ่อเกลือ",
+    "province-th": "น่าน",
+    "district-en": "Bo Kluea",
+    "province-en": "Nan"
+  },
+  {
+    "id": "77",
+    "district-th": "บ่อพลอย",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Bo Phloi",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "78",
+    "district-th": "บ่อไร่",
+    "province-th": "ตราด",
+    "district-en": "Bo Rai",
+    "province-en": "Trat"
+  },
+  {
+    "id": "79",
+    "district-th": "บ่อทอง",
+    "province-th": "ชลบุรี",
+    "district-en": "Bo Thong",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "80",
+    "district-th": "บรบือ",
+    "province-th": "มหาสารคาม",
+    "district-en": "Borabue",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "81",
+    "district-th": "บัวลาย",
+    "province-th": "นครราชสีมา",
+    "district-en": "Bua Lai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "82",
+    "district-th": "บัวใหญ่",
+    "province-th": "นครราชสีมา",
+    "district-en": "Bua Yai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "83",
+    "district-th": "บัวเชด",
+    "province-th": "สุรินทร์",
+    "district-en": "Buachet",
+    "province-en": "Surin"
+  },
+  {
+    "id": "84",
+    "district-th": "บึงบูรพ์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Bueng Bun",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "85",
+    "district-th": "บึงโขงหลง",
+    "province-th": "บึงกาฬ",
+    "district-en": "Bueng Khong Long",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "86",
+    "district-th": "บึงนาราง",
+    "province-th": "พิจิตร",
+    "district-en": "Bueng Na Rang",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "87",
+    "district-th": "บึงสามพัน",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Bueng Sam Phan",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "88",
+    "district-th": "บึงสามัคคี",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Bueng Samakkhi",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "89",
+    "district-th": "บุ่งคล้า",
+    "province-th": "บึงกาฬ",
+    "district-en": "Bung Khla",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "90",
+    "district-th": "บุณฑริก",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Buntharik",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "91",
+    "district-th": "ชะอำ",
+    "province-th": "เพชรบุรี",
+    "district-en": "Cha-am",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "92",
+    "district-th": "ชะอวด",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Cha-uat",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "93",
+    "district-th": "แจ้ห่ม",
+    "province-th": "ลำปาง",
+    "district-en": "Chae Hom",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "94",
+    "district-th": "ชัยบาดาล",
+    "province-th": "ลพบุรี",
+    "district-en": "Chai Badan",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "95",
+    "district-th": "ไชโย",
+    "province-th": "อ่างทอง",
+    "district-en": "Chaiyo",
+    "province-en": "Ang Thong"
+  },
+  {
+    "id": "96",
+    "district-th": "ชัยบุรี",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Chai Buri",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "97",
+    "district-th": "ไชยปราการ",
+    "province-th": "เชียงใหม่",
+    "district-en": "Chai Prakan",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "98",
+    "district-th": "ไชยวาน",
+    "province-th": "อุดรธานี",
+    "district-en": "Chai Wan",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "99",
+    "district-th": "ไชยา",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Chaiya",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "100",
+    "district-th": "เฉลิมพระเกียรติ",
+    "province-th": "นครราชสีมา",
+    "district-en": "Chaloem Phra Kiat",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "101",
+    "district-th": "เฉลิมพระเกียรติ",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Chaloem Phra Kiat",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "102",
+    "district-th": "เฉลิมพระเกียรติ",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Chaloem Phra Kiat",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "103",
+    "district-th": "เฉลิมพระเกียรติ",
+    "province-th": "สระบุรี",
+    "district-en": "Chaloem Phra Kiat",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "104",
+    "district-th": "เฉลิมพระเกียรติ",
+    "province-th": "น่าน",
+    "district-en": "Chaloem Phra Kiat",
+    "province-en": "Nan"
+  },
+  {
+    "id": "105",
+    "district-th": "จักราช",
+    "province-th": "นครราชสีมา",
+    "district-en": "Chakkarat",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "106",
+    "district-th": "ชำนิ",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Chamni",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "107",
+    "district-th": "จะนะ",
+    "province-th": "สงขลา",
+    "district-en": "Chana",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "108",
+    "district-th": "จะแนะ",
+    "province-th": "นราธิวาส",
+    "district-en": "Chanae",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "109",
+    "district-th": "จังหาร",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Changhan",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "110",
+    "district-th": "ช้างกลาง",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Chang Klang",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "111",
+    "district-th": "ชานุมาน",
+    "province-th": "อำนาจเจริญ",
+    "district-en": "Chanuman",
+    "province-en": "Amnat Charoen"
+  },
+  {
+    "id": "112",
+    "district-th": "เจริญศิลป์",
+    "province-th": "สกลนคร",
+    "district-en": "Charoen Sin",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "113",
+    "district-th": "ชาติตระการ",
+    "province-th": "พิษณุโลก",
+    "district-en": "Chat Trakan",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "114",
+    "district-th": "จัตุรัส",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Chatturat",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "115",
+    "district-th": "จตุรพักตรพิมาน",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Chaturaphak Phiman",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "116",
+    "district-th": "ฉวาง",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Chawang",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "117",
+    "district-th": "เชียรใหญ่",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Chian Yai",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "118",
+    "district-th": "เชียงดาว",
+    "province-th": "เชียงใหม่",
+    "district-en": "Chiang Dao",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "119",
+    "district-th": "เชียงคำ",
+    "province-th": "พะเยา",
+    "district-en": "Chiang Kham",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "120",
+    "district-th": "เชียงคาน",
+    "province-th": "เลย",
+    "district-en": "Chiang Khan",
+    "province-en": "Loei"
+  },
+  {
+    "id": "121",
+    "district-th": "เชียงของ",
+    "province-th": "เชียงราย",
+    "district-en": "Chiang Khong",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "122",
+    "district-th": "เชียงขวัญ",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Chiang Khwan",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "123",
+    "district-th": "เชียงกลาง",
+    "province-th": "น่าน",
+    "district-en": "Chiang Klang",
+    "province-en": "Nan"
+  },
+  {
+    "id": "124",
+    "district-th": "เชียงม่วน",
+    "province-th": "พะเยา",
+    "district-en": "Chiang Muan",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "125",
+    "district-th": "เชียงแสน",
+    "province-th": "เชียงราย",
+    "district-en": "Chiang Saen",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "126",
+    "district-th": "เชียงยืน",
+    "province-th": "มหาสารคาม",
+    "district-en": "Chiang Yuen",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "127",
+    "district-th": "เจาะไอร้อง",
+    "province-th": "นราธิวาส",
+    "district-en": "Cho-airong",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "128",
+    "district-th": "โชคชัย",
+    "province-th": "นครราชสีมา",
+    "district-en": "Chok Chai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "129",
+    "district-th": "จอมบึง",
+    "province-th": "ราชบุรี",
+    "district-en": "Chom Bueng",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "130",
+    "district-th": "จอมพระ",
+    "province-th": "สุรินทร์",
+    "district-en": "Chom Phra",
+    "province-en": "Surin"
+  },
+  {
+    "id": "131",
+    "district-th": "จอมทอง",
+    "province-th": "เชียงใหม่",
+    "district-en": "Chom Thong",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "132",
+    "district-th": "ชนแดน",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Chon Daen",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "133",
+    "district-th": "ชนบท",
+    "province-th": "ขอนแก่น",
+    "district-en": "Chonnabot",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "134",
+    "district-th": "ชื่นชม",
+    "province-th": "มหาสารคาม",
+    "district-en": "Chuen Chom",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "135",
+    "district-th": "จุฬาภรณ์",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Chulabhorn",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "136",
+    "district-th": "ชุมแพ",
+    "province-th": "ขอนแก่น",
+    "district-en": "Chum Phae",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "137",
+    "district-th": "ชุมพวง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Chum Phuang",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "138",
+    "district-th": "ชุมแสง",
+    "province-th": "นครสวรรค์",
+    "district-en": "Chum Saeng",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "139",
+    "district-th": "ชุมตาบง",
+    "province-th": "นครสวรรค์",
+    "district-en": "Chum Ta Bong",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "140",
+    "district-th": "ชุมพลบุรี",
+    "province-th": "สุรินทร์",
+    "district-en": "Chumphon Buri",
+    "province-en": "Surin"
+  },
+  {
+    "id": "141",
+    "district-th": "จุน",
+    "province-th": "พะเยา",
+    "district-en": "Chun",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "142",
+    "district-th": "ดำเนินสะดวก",
+    "province-th": "ราชบุรี",
+    "district-en": "Damnoen Saduak",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "143",
+    "district-th": "ด่านช้าง",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Dan Chang",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "144",
+    "district-th": "ด่านขุนทด",
+    "province-th": "นครราชสีมา",
+    "district-en": "Dan Khun Thot",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "145",
+    "district-th": "ด่านมะขามเตี้ย",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Dan Makham Tia",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "146",
+    "district-th": "ด่านซ้าย",
+    "province-th": "เลย",
+    "district-en": "Dan Sai",
+    "province-en": "Loei"
+  },
+  {
+    "id": "147",
+    "district-th": "เด่นชัย",
+    "province-th": "แพร่",
+    "district-en": "Den Chai",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "148",
+    "district-th": "เดชอุดม",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Det Udom",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "149",
+    "district-th": "เดิมบางนางบวช",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Doem Bang Nang Buat",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "150",
+    "district-th": "ดอยหล่อ",
+    "province-th": "เชียงใหม่",
+    "district-en": "Doi Lo",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "151",
+    "district-th": "ดอยหลวง",
+    "province-th": "เชียงราย",
+    "district-en": "Doi Luang",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "152",
+    "district-th": "ดอยสะเก็ด",
+    "province-th": "เชียงใหม่",
+    "district-en": "Doi Saket",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "153",
+    "district-th": "ดอยเต่า",
+    "province-th": "เชียงใหม่",
+    "district-en": "Doi Tao",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "154",
+    "district-th": "ดอกคำใต้",
+    "province-th": "พะเยา",
+    "district-en": "Dok Khamtai",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "155",
+    "district-th": "ดอนจาน",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Don Chan",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "156",
+    "district-th": "ดอนเจดีย์",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Don Chedi",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "157",
+    "district-th": "ดอนมดแดง",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Don Mot Daeng",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "158",
+    "district-th": "ดอนพุด",
+    "province-th": "สระบุรี",
+    "district-en": "Don Phut",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "159",
+    "district-th": "ดอนสัก",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Don Sak",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "160",
+    "district-th": "ดอนตาล",
+    "province-th": "มุกดาหาร",
+    "district-en": "Don Tan",
+    "province-en": "Mukdahan"
+  },
+  {
+    "id": "161",
+    "district-th": "ดอนตูม",
+    "province-th": "นครปฐม",
+    "district-en": "Don Tum",
+    "province-en": "Nakhon Pathom"
+  },
+  {
+    "id": "162",
+    "district-th": "ดงเจริญ",
+    "province-th": "พิจิตร",
+    "district-en": "Dong Charoen",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "163",
+    "district-th": "ดงหลวง",
+    "province-th": "มุกดาหาร",
+    "district-en": "Dong Luang",
+    "province-en": "Mukdahan"
+  },
+  {
+    "id": "164",
+    "district-th": "เอราวัณ",
+    "province-th": "เลย",
+    "district-en": "Erawan",
+    "province-en": "Loei"
+  },
+  {
+    "id": "165",
+    "district-th": "ฟากท่า",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Fak Tha",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "166",
+    "district-th": "ฝาง",
+    "province-th": "เชียงใหม่",
+    "district-en": "Fang",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "167",
+    "district-th": "เฝ้าไร่",
+    "province-th": "หนองคาย",
+    "district-en": "Fao Rai",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "168",
+    "district-th": "กัลยาณิวัฒนา",
+    "province-th": "เชียงใหม่",
+    "district-en": "Galyani Vadhana",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "169",
+    "district-th": "ห้างฉัตร",
+    "province-th": "ลำปาง",
+    "district-en": "Hang Chat",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "170",
+    "district-th": "หางดง",
+    "province-th": "เชียงใหม่",
+    "district-en": "Hang Dong",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "171",
+    "district-th": "หันคา",
+    "province-th": "ชัยนาท",
+    "district-en": "Hankha",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "172",
+    "district-th": "หาดสำราญ",
+    "province-th": "ตรัง",
+    "district-en": "Hat Samran",
+    "province-en": "Trang"
+  },
+  {
+    "id": "173",
+    "district-th": "หาดใหญ่",
+    "province-th": "สงขลา",
+    "district-en": "Hat Yai",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "174",
+    "district-th": "ฮอด",
+    "province-th": "เชียงใหม่",
+    "district-en": "Hot",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "175",
+    "district-th": "หัวหิน",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Hua Hin",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "176",
+    "district-th": "หัวไทร",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Hua Sai",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "177",
+    "district-th": "หัวตะพาน",
+    "province-th": "อำนาจเจริญ",
+    "district-en": "Hua Taphan",
+    "province-en": "Amnat Charoen"
+  },
+  {
+    "id": "178",
+    "district-th": "ห้วยคต",
+    "province-th": "อุทัยธานี",
+    "district-en": "Huai Khot",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "179",
+    "district-th": "ห้วยกระเจา",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Huai Krachao",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "180",
+    "district-th": "ห้วยเม็ก",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Huai Mek",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "181",
+    "district-th": "ห้วยผึ้ง",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Huai Phueng",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "182",
+    "district-th": "ห้วยราช",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Huai Rat",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "183",
+    "district-th": "ห้วยแถลง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Huai Thalaeng",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "184",
+    "district-th": "ห้วยทับทัน",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Huai Thap Than",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "185",
+    "district-th": "ห้วยยอด",
+    "province-th": "ตรัง",
+    "district-en": "Huai Yot",
+    "province-en": "Trang"
+  },
+  {
+    "id": "186",
+    "district-th": "อินทร์บุรี",
+    "province-th": "สิงห์บุรี",
+    "district-en": "In Buri",
+    "province-en": "Sing Buri"
+  },
+  {
+    "id": "187",
+    "district-th": "กาบัง",
+    "province-th": "ยะลา",
+    "district-en": "Kabang",
+    "province-en": "Yala"
+  },
+  {
+    "id": "188",
+    "district-th": "กบินทร์บุรี",
+    "province-th": "ปราจีนบุรี",
+    "district-en": "Kabin Buri",
+    "province-en": "Prachinburi"
+  },
+  {
+    "id": "189",
+    "district-th": "แกดำ",
+    "province-th": "มหาสารคาม",
+    "district-en": "Kae Dam",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "190",
+    "district-th": "แก่งหางแมว",
+    "province-th": "จันทบุรี",
+    "district-en": "Kaeng Hang Maeo",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "191",
+    "district-th": "แก่งคอย",
+    "province-th": "สระบุรี",
+    "district-en": "Kaeng Khoi",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "192",
+    "district-th": "แก้งคร้อ",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Kaeng Khro",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "193",
+    "district-th": "แก่งกระจาน",
+    "province-th": "เพชรบุรี",
+    "district-en": "Kaeng Krachan",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "194",
+    "district-th": "แก้งสนามนาง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Kaeng Sanam Nang",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "195",
+    "district-th": "กมลาไสย",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Kamalasai",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "196",
+    "district-th": "กำแพงแสน",
+    "province-th": "นครปฐม",
+    "district-en": "Kamphaeng Saen",
+    "province-en": "Nakhon Pathom"
+  },
+  {
+    "id": "197",
+    "district-th": "กาญจนดิษฐ์",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Kanchanadit",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "198",
+    "district-th": "กันตัง",
+    "province-th": "ตรัง",
+    "district-en": "Kantang",
+    "province-en": "Trang"
+  },
+  {
+    "id": "199",
+    "district-th": "กันทรลักษ์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Kantharalak",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "200",
+    "district-th": "กันทรารมย์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Kanthararom",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "201",
+    "district-th": "กันทรวิชัย",
+    "province-th": "มหาสารคาม",
+    "district-en": "Kantharawichai",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "202",
+    "district-th": "เก้าเลี้ยว",
+    "province-th": "นครสวรรค์",
+    "district-en": "Kao Liao",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "203",
+    "district-th": "กาบเชิง",
+    "province-th": "สุรินทร์",
+    "district-en": "Kap Choeng",
+    "province-en": "Surin"
+  },
+  {
+    "id": "204",
+    "district-th": "กะพ้อ",
+    "province-th": "ปัตตานี",
+    "district-en": "Kapho",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "205",
+    "district-th": "กะเปอร์",
+    "province-th": "ระนอง",
+    "district-en": "Kapoe",
+    "province-en": "Ranong"
+  },
+  {
+    "id": "206",
+    "district-th": "กะปง",
+    "province-th": "พังงา",
+    "district-en": "Kapong",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "207",
+    "district-th": "เกษตรสมบูรณ์",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Kaset Sombun",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "208",
+    "district-th": "เกษตรวิสัย",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Kaset Wisai",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "209",
+    "district-th": "กะทู้",
+    "province-th": "ภูเก็ต",
+    "district-en": "Kathu",
+    "province-en": "Phuket"
+  },
+  {
+    "id": "210",
+    "district-th": "แคนดง",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Khaen Dong",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "211",
+    "district-th": "ค่ายบางระจัน",
+    "province-th": "สิงห์บุรี",
+    "district-en": "Khai Bang Rachan",
+    "province-en": "Sing Buri"
+  },
+  {
+    "id": "212",
+    "district-th": "คำเขื่อนแก้ว",
+    "province-th": "ยโสธร",
+    "district-en": "Kham Khuean Kaeo",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "213",
+    "district-th": "คำม่วง",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Kham Muang",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "214",
+    "district-th": "ขามสะแกแสง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Kham Sakaesaeng",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "215",
+    "district-th": "คำตากล้า",
+    "province-th": "สกลนคร",
+    "district-en": "Kham Ta Kla",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "216",
+    "district-th": "ขามทะเลสอ",
+    "province-th": "นครราชสีมา",
+    "district-en": "Kham Thale So",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "217",
+    "district-th": "คำชะอี",
+    "province-th": "มุกดาหาร",
+    "district-en": "Khamcha-i",
+    "province-en": "Mukdahan"
+  },
+  {
+    "id": "218",
+    "district-th": "ขนอม",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Khanom",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "219",
+    "district-th": "ขาณุวรลักษบุรี",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Khanu Woralaksaburi",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "220",
+    "district-th": "เขาชัยสน",
+    "province-th": "พัทลุง",
+    "district-en": "Khao Chaison",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "221",
+    "district-th": "เขาฉกรรจ์",
+    "province-th": "สระแก้ว",
+    "district-en": "Khao Chakan",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "222",
+    "district-th": "เขาชะเมา",
+    "province-th": "ระยอง",
+    "district-en": "Khao Chamao",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "223",
+    "district-th": "เขาคิชฌกูฏ",
+    "province-th": "จันทบุรี",
+    "district-en": "Khao Khitchakut",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "224",
+    "district-th": "เขาค้อ",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Khao Kho",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "225",
+    "district-th": "เขาพนม",
+    "province-th": "กระบี่",
+    "district-en": "Khao Phanom",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "226",
+    "district-th": "เขาสมิง",
+    "province-th": "ตราด",
+    "district-en": "Khao Saming",
+    "province-en": "Trat"
+  },
+  {
+    "id": "227",
+    "district-th": "เขาสวนกวาง",
+    "province-th": "ขอนแก่น",
+    "district-en": "Khao Suan Kwang",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "228",
+    "district-th": "เขาวง",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Khao Wong",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "229",
+    "district-th": "เขาย้อย",
+    "province-th": "เพชรบุรี",
+    "district-en": "Khao Yoi",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "230",
+    "district-th": "เขมราฐ",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Khemarat",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "231",
+    "district-th": "เคียนซา",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Khian Sa",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "232",
+    "district-th": "คีรีมาศ",
+    "province-th": "สุโขทัย",
+    "district-en": "Khiri Mat",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "233",
+    "district-th": "คีรีรัฐนิคม",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Khiri Rat Nikhom",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "234",
+    "district-th": "คลองหาด",
+    "province-th": "สระแก้ว",
+    "district-en": "Khlong Hat",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "235",
+    "district-th": "คลองหอยโข่ง",
+    "province-th": "สงขลา",
+    "district-en": "Khlong Hoi Khong",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "236",
+    "district-th": "คลองขลุง",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Khlong Khlung",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "237",
+    "district-th": "คลองเขื่อน",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Khlong Khuean",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "238",
+    "district-th": "คลองลาน",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Khlong Lan",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "239",
+    "district-th": "คลองหลวง",
+    "province-th": "ปทุมธานี",
+    "district-en": "Khlong Luang",
+    "province-en": "Pathum Thani"
+  },
+  {
+    "id": "240",
+    "district-th": "คลองท่อม",
+    "province-th": "กระบี่",
+    "district-en": "Khlong Thom",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "241",
+    "district-th": "คลองใหญ่",
+    "province-th": "ตราด",
+    "district-en": "Khlong Yai",
+    "province-en": "Trat"
+  },
+  {
+    "id": "242",
+    "district-th": "ขลุง",
+    "province-th": "จันทบุรี",
+    "district-en": "Khlung",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "243",
+    "district-th": "ค้อวัง",
+    "province-th": "ยโสธร",
+    "district-en": "Kho Wang",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "244",
+    "district-th": "โคกเจริญ",
+    "province-th": "ลพบุรี",
+    "district-en": "Khok Charoen",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "245",
+    "district-th": "โคกโพธิ์",
+    "province-th": "ปัตตานี",
+    "district-en": "Khok Pho",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "246",
+    "district-th": "โคกโพธิ์ไชย",
+    "province-th": "ขอนแก่น",
+    "district-en": "Khok Pho Chai",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "247",
+    "district-th": "โคกสำโรง",
+    "province-th": "ลพบุรี",
+    "district-en": "Khok Samrong",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "248",
+    "district-th": "โคกศรีสุพรรณ",
+    "province-th": "สกลนคร",
+    "district-en": "Khok Si Suphan",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "249",
+    "district-th": "โคกสูง",
+    "province-th": "สระแก้ว",
+    "district-en": "Khok Sung",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "250",
+    "district-th": "ครบุรี",
+    "province-th": "นครราชสีมา",
+    "district-en": "Khon Buri",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "251",
+    "district-th": "คอนสาร",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Khon San",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "252",
+    "district-th": "คอนสวรรค์",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Khon Sawan",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "253",
+    "district-th": "คง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Khong",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "254",
+    "district-th": "ฆ้องชัย",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Khong Chai",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "255",
+    "district-th": "โขงเจียม",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Khong Chiam",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "256",
+    "district-th": "คูเมือง",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Khu Mueang",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "257",
+    "district-th": "ควนโดน",
+    "province-th": "สตูล",
+    "district-en": "Khuan Don",
+    "province-en": "Satun"
+  },
+  {
+    "id": "258",
+    "district-th": "ควนกาหลง",
+    "province-th": "สตูล",
+    "district-en": "Khuan Kalong",
+    "province-en": "Satun"
+  },
+  {
+    "id": "259",
+    "district-th": "ควนขนุน",
+    "province-th": "พัทลุง",
+    "district-en": "Khuan Khanun",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "260",
+    "district-th": "ควนเนียง",
+    "province-th": "สงขลา",
+    "district-en": "Khuan Niang",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "261",
+    "district-th": "เขื่องใน",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Khueang Nai",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "262",
+    "district-th": "ขุขันธ์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Khukhan",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "263",
+    "district-th": "ขุนหาญ",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Khun Han",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "264",
+    "district-th": "ขุนตาล",
+    "province-th": "เชียงราย",
+    "district-en": "Khun Tan",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "265",
+    "district-th": "ขุนยวม",
+    "province-th": "แม่ฮ่องสอน",
+    "district-en": "Khun Yuam",
+    "province-en": "Mae Hong Son"
+  },
+  {
+    "id": "266",
+    "district-th": "คุระบุรี",
+    "province-th": "พังงา",
+    "district-en": "Khura Buri",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "267",
+    "district-th": "เขวาสินรินทร์",
+    "province-th": "สุรินทร์",
+    "district-en": "Khwao Sinarin",
+    "province-en": "Surin"
+  },
+  {
+    "id": "268",
+    "district-th": "แกลง",
+    "province-th": "ระยอง",
+    "district-en": "Klaeng",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "269",
+    "district-th": "เกาะจันทร์",
+    "province-th": "ชลบุรี",
+    "district-en": "Ko Chan",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "270",
+    "district-th": "เกาะช้าง",
+    "province-th": "ตราด",
+    "district-en": "Ko Chang",
+    "province-en": "Trat"
+  },
+  {
+    "id": "271",
+    "district-th": "เกาะคา",
+    "province-th": "ลำปาง",
+    "district-en": "Ko Kha",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "272",
+    "district-th": "เกาะกูด",
+    "province-th": "ตราด",
+    "district-en": "Ko Kut",
+    "province-en": "Trat"
+  },
+  {
+    "id": "273",
+    "district-th": "เกาะลันตา",
+    "province-th": "กระบี่",
+    "district-en": "Ko Lanta",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "274",
+    "district-th": "เกาะพะงัน",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Ko Pha-ngan",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "275",
+    "district-th": "เกาะสมุย",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Ko Samui",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "276",
+    "district-th": "เกาะสีชัง",
+    "province-th": "ชลบุรี",
+    "district-en": "Ko Sichang",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "277",
+    "district-th": "เกาะยาว",
+    "province-th": "พังงา",
+    "district-en": "Ko Yao",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "278",
+    "district-th": "กงไกรลาศ",
+    "province-th": "สุโขทัย",
+    "district-en": "Kong Krailat",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "279",
+    "district-th": "กงหรา",
+    "province-th": "พัทลุง",
+    "district-en": "Kong Ra",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "280",
+    "district-th": "โกสัมพีนคร",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Kosamphi Nakhon",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "281",
+    "district-th": "โกสุมพิสัย",
+    "province-th": "มหาสารคาม",
+    "district-en": "Kosum Phisai",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "282",
+    "district-th": "กระบุรี",
+    "province-th": "ระนอง",
+    "district-en": "Kra Buri",
+    "province-en": "Ranong"
+  },
+  {
+    "id": "283",
+    "district-th": "กระนวน",
+    "province-th": "ขอนแก่น",
+    "district-en": "Kranuan",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "284",
+    "district-th": "กระแสสินธุ์",
+    "province-th": "สงขลา",
+    "district-en": "Krasae Sin",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "285",
+    "district-th": "กระสัง",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Krasang",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "286",
+    "district-th": "กระทุ่มแบน",
+    "province-th": "สมุทรสาคร",
+    "district-en": "Krathum Baen",
+    "province-en": "Samut Sakhon"
+  },
+  {
+    "id": "287",
+    "district-th": "โกรกพระ",
+    "province-th": "นครสวรรค์",
+    "district-en": "Krok Phra",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "288",
+    "district-th": "กรงปินัง",
+    "province-th": "ยะลา",
+    "district-en": "Krong Pinang",
+    "province-en": "Yala"
+  },
+  {
+    "id": "289",
+    "district-th": "กู่แก้ว",
+    "province-th": "อุดรธานี",
+    "district-en": "Ku Kaeo",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "290",
+    "district-th": "กุฉินารายณ์",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Kuchinarai",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "291",
+    "district-th": "กุยบุรี",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Kui Buri",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "292",
+    "district-th": "กุมภวาปี",
+    "province-th": "อุดรธานี",
+    "district-en": "Kumphawapi",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "293",
+    "district-th": "กุสุมาลย์",
+    "province-th": "สกลนคร",
+    "district-en": "Kusuman",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "294",
+    "district-th": "กุดบาก",
+    "province-th": "สกลนคร",
+    "district-en": "Kut Bak",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "295",
+    "district-th": "กุดจับ",
+    "province-th": "อุดรธานี",
+    "district-en": "Kut Chap",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "296",
+    "district-th": "กุดชุม",
+    "province-th": "ยโสธร",
+    "district-en": "Kut Chum",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "297",
+    "district-th": "กุดข้าวปุ้น",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Kut Khaopun",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "298",
+    "district-th": "กุดรัง",
+    "province-th": "มหาสารคาม",
+    "district-en": "Kut Rang",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "299",
+    "district-th": "ละงู",
+    "province-th": "สตูล",
+    "district-en": "La-ngu",
+    "province-en": "Satun"
+  },
+  {
+    "id": "300",
+    "district-th": "ละอุ่น",
+    "province-th": "ระนอง",
+    "district-en": "La-un",
+    "province-en": "Ranong"
+  },
+  {
+    "id": "301",
+    "district-th": "แหลมงอบ",
+    "province-th": "ตราด",
+    "district-en": "Laem Ngop",
+    "province-en": "Trat"
+  },
+  {
+    "id": "302",
+    "district-th": "แหลมสิงห์",
+    "province-th": "จันทบุรี",
+    "district-en": "Laem Sing",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "303",
+    "district-th": "ละหานทราย",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Lahan Sai",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "304",
+    "district-th": "ลำลูกกา",
+    "province-th": "ปทุมธานี",
+    "district-en": "Lam Luk Ka",
+    "province-en": "Pathum Thani"
+  },
+  {
+    "id": "305",
+    "district-th": "ลำปลายมาศ",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Lam Plai Mat",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "306",
+    "district-th": "ลำสนธิ",
+    "province-th": "ลพบุรี",
+    "district-en": "Lam Sonthi",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "307",
+    "district-th": "ลำทะเมนชัย",
+    "province-th": "นครราชสีมา",
+    "district-en": "Lam Thamenchai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "308",
+    "district-th": "ลำทับ",
+    "province-th": "กระบี่",
+    "district-en": "Lam Thap",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "309",
+    "district-th": "ละแม",
+    "province-th": "ชุมพร",
+    "district-en": "Lamae",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "310",
+    "district-th": "ลำดวน",
+    "province-th": "สุรินทร์",
+    "district-en": "Lamduan",
+    "province-en": "Surin"
+  },
+  {
+    "id": "311",
+    "district-th": "ลานกระบือ",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Lan Krabue",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "312",
+    "district-th": "ลานสัก",
+    "province-th": "อุทัยธานี",
+    "district-en": "Lan Sak",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "313",
+    "district-th": "ลานสกา",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Lan Saka",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "314",
+    "district-th": "หลังสวน",
+    "province-th": "ชุมพร",
+    "district-en": "Lang Suan",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "315",
+    "district-th": "เลาขวัญ",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Lao Khwan",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "316",
+    "district-th": "เหล่าเสือโก้ก",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Lao Suea Kok",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "317",
+    "district-th": "ลับแล",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Laplae",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "318",
+    "district-th": "ลาดบัวหลวง",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Lat Bua Luang",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "319",
+    "district-th": "ลาดหลุมแก้ว",
+    "province-th": "ปทุมธานี",
+    "district-en": "Lat Lum Kaeo",
+    "province-en": "Pathum Thani"
+  },
+  {
+    "id": "320",
+    "district-th": "ลาดยาว",
+    "province-th": "นครสวรรค์",
+    "district-en": "Lat Yao",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "321",
+    "district-th": "ลี้",
+    "province-th": "ลำพูน",
+    "district-en": "Li",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "322",
+    "district-th": "เลิงนกทา",
+    "province-th": "ยโสธร",
+    "district-en": "Loeng Nok Tha",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "323",
+    "district-th": "หล่มเก่า",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Lom Kao",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "324",
+    "district-th": "หล่มสัก",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Lom Sak",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "325",
+    "district-th": "ลอง",
+    "province-th": "แพร่",
+    "district-en": "Long",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "326",
+    "district-th": "ลืออำนาจ",
+    "province-th": "อำนาจเจริญ",
+    "district-en": "Lue Amnat",
+    "province-en": "Amnat Charoen"
+  },
+  {
+    "id": "327",
+    "district-th": "แม่อาย",
+    "province-th": "เชียงใหม่",
+    "district-en": "Mae Ai",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "328",
+    "district-th": "แม่จริม",
+    "province-th": "น่าน",
+    "district-en": "Mae Charim",
+    "province-en": "Nan"
+  },
+  {
+    "id": "329",
+    "district-th": "แม่แจ่ม",
+    "province-th": "เชียงใหม่",
+    "district-en": "Mae Chaem",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "330",
+    "district-th": "แม่ใจ",
+    "province-th": "พะเยา",
+    "district-en": "Mae Chai",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "331",
+    "district-th": "แม่จัน",
+    "province-th": "เชียงราย",
+    "district-en": "Mae Chan",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "332",
+    "district-th": "แม่ฟ้าหลวง",
+    "province-th": "เชียงราย",
+    "district-en": "Mae Fa Luang",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "333",
+    "district-th": "แม่ลาน้อย",
+    "province-th": "แม่ฮ่องสอน",
+    "district-en": "Mae La Noi",
+    "province-en": "Mae Hong Son"
+  },
+  {
+    "id": "334",
+    "district-th": "แม่ลาน",
+    "province-th": "ปัตตานี",
+    "district-en": "Mae Lan",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "335",
+    "district-th": "แม่ลาว",
+    "province-th": "เชียงราย",
+    "district-en": "Mae Lao",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "336",
+    "district-th": "แม่เมาะ",
+    "province-th": "ลำปาง",
+    "district-en": "Mae Mo",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "337",
+    "district-th": "แม่ออน",
+    "province-th": "เชียงใหม่",
+    "district-en": "Mae On",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "338",
+    "district-th": "แม่พริก",
+    "province-th": "ลำปาง",
+    "district-en": "Mae Phrik",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "339",
+    "district-th": "แม่เปิน",
+    "province-th": "นครสวรรค์",
+    "district-en": "Mae Poen",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "340",
+    "district-th": "แม่ระมาด",
+    "province-th": "ตาก",
+    "district-en": "Mae Ramat",
+    "province-en": "Tak"
+  },
+  {
+    "id": "341",
+    "district-th": "แม่ริม",
+    "province-th": "เชียงใหม่",
+    "district-en": "Mae Rim",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "342",
+    "district-th": "แม่สาย",
+    "province-th": "เชียงราย",
+    "district-en": "Mae Sai",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "343",
+    "district-th": "แม่สะเรียง",
+    "province-th": "แม่ฮ่องสอน",
+    "district-en": "Mae Sariang",
+    "province-en": "Mae Hong Son"
+  },
+  {
+    "id": "344",
+    "district-th": "แม่สอด",
+    "province-th": "ตาก",
+    "district-en": "Mae Sot",
+    "province-en": "Tak"
+  },
+  {
+    "id": "345",
+    "district-th": "แม่สรวย",
+    "province-th": "เชียงราย",
+    "district-en": "Mae Suai",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "346",
+    "district-th": "แม่แตง",
+    "province-th": "เชียงใหม่",
+    "district-en": "Mae Taeng",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "347",
+    "district-th": "แม่ทะ",
+    "province-th": "ลำปาง",
+    "district-en": "Mae Tha, Lampang",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "348",
+    "district-th": "แม่ทา",
+    "province-th": "ลำพูน",
+    "district-en": "Mae Tha, Lamphun",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "349",
+    "district-th": "แม่วาง",
+    "province-th": "เชียงใหม่",
+    "district-en": "Mae Wang",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "350",
+    "district-th": "แม่วงก์",
+    "province-th": "นครสวรรค์",
+    "district-en": "Mae Wong",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "351",
+    "district-th": "มหาชนะชัย",
+    "province-th": "ยโสธร",
+    "district-en": "Maha Chana Chai",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "352",
+    "district-th": "มหาราช",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Maha Rat",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "353",
+    "district-th": "ไม้แก่น",
+    "province-th": "ปัตตานี",
+    "district-en": "Mai Kaen",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "354",
+    "district-th": "มะขาม",
+    "province-th": "จันทบุรี",
+    "district-en": "Makham",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "355",
+    "district-th": "มะนัง",
+    "province-th": "สตูล",
+    "district-en": "Manang",
+    "province-en": "Satun"
+  },
+  {
+    "id": "356",
+    "district-th": "มัญจาคีรี",
+    "province-th": "ขอนแก่น",
+    "district-en": "Mancha Khiri",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "357",
+    "district-th": "มโนรมย์",
+    "province-th": "ชัยนาท",
+    "district-en": "Manorom",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "358",
+    "district-th": "มายอ",
+    "province-th": "ปัตตานี",
+    "district-en": "Mayo",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "359",
+    "district-th": "เมยวดี",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Moei Wadi",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "360",
+    "district-th": "มวกเหล็ก",
+    "province-th": "สระบุรี",
+    "district-en": "Muak Lek",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "361",
+    "district-th": "ม่วงสามสิบ",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Muang Sam Sip",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "362",
+    "district-th": "เมืองอำนาจเจริญ",
+    "province-th": "อำนาจเจริญ",
+    "district-en": "Mueang Amnat Charoen",
+    "province-en": "Amnat Charoen"
+  },
+  {
+    "id": "363",
+    "district-th": "เมืองอ่างทอง",
+    "province-th": "อ่างทอง",
+    "district-en": "Mueang Ang Thong",
+    "province-en": "Ang Thong"
+  },
+  {
+    "id": "364",
+    "district-th": "เมืองบึงกาฬ",
+    "province-th": "บึงกาฬ",
+    "district-en": "Mueang Bueng Kan",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "365",
+    "district-th": "เมืองบุรีรัมย์",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Mueang Buriram",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "366",
+    "district-th": "เมืองฉะเชิงเทรา",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Mueang Chachoengsao",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "367",
+    "district-th": "เมืองชัยนาท",
+    "province-th": "ชัยนาท",
+    "district-en": "Mueang Chai Nat",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "368",
+    "district-th": "เมืองชัยภูมิ",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Mueang Chaiyaphum",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "369",
+    "district-th": "เมืองจันทร์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Mueang Chan",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "370",
+    "district-th": "เมืองจันทบุรี",
+    "province-th": "จันทบุรี",
+    "district-en": "Mueang Chanthaburi",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "371",
+    "district-th": "เมืองเชียงใหม่",
+    "province-th": "เชียงใหม่",
+    "district-en": "Mueang Chiang Mai",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "372",
+    "district-th": "เมืองเชียงราย",
+    "province-th": "เชียงราย",
+    "district-en": "Mueang Chiang Rai",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "373",
+    "district-th": "เมืองชลบุรี",
+    "province-th": "ชลบุรี",
+    "district-en": "Mueang Chonburi",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "374",
+    "district-th": "เมืองชุมพร",
+    "province-th": "ชุมพร",
+    "district-en": "Mueang Chumphon",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "375",
+    "district-th": "เมืองกาฬสินธุ์",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Mueang Kalasin",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "376",
+    "district-th": "เมืองกำแพงเพชร",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Mueang Kamphaeng Phet",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "377",
+    "district-th": "เมืองกาญจนบุรี",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Mueang Kanchanaburi",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "378",
+    "district-th": "เมืองขอนแก่น",
+    "province-th": "ขอนแก่น",
+    "district-en": "Mueang Khon Kaen",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "379",
+    "district-th": "เมืองกระบี่",
+    "province-th": "กระบี่",
+    "district-en": "Mueang Krabi",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "380",
+    "district-th": "เมืองลำปาง",
+    "province-th": "ลำปาง",
+    "district-en": "Mueang Lampang",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "381",
+    "district-th": "เมืองลำพูน",
+    "province-th": "ลำพูน",
+    "district-en": "Mueang Lamphun",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "382",
+    "district-th": "เมืองเลย",
+    "province-th": "เลย",
+    "district-en": "Mueang Loei",
+    "province-en": "Loei"
+  },
+  {
+    "id": "383",
+    "district-th": "เมืองลพบุรี",
+    "province-th": "ลพบุรี",
+    "district-en": "Mueang Lopburi",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "384",
+    "district-th": "เมืองแม่ฮ่องสอน",
+    "province-th": "แม่ฮ่องสอน",
+    "district-en": "Mueang Mae Hong Son",
+    "province-en": "Mae Hong Son"
+  },
+  {
+    "id": "385",
+    "district-th": "เมืองมหาสารคาม",
+    "province-th": "มหาสารคาม",
+    "district-en": "Mueang Maha Sarakham",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "386",
+    "district-th": "เมืองมุกดาหาร",
+    "province-th": "มุกดาหาร",
+    "district-en": "Mueang Mukdahan",
+    "province-en": "Mukdahan"
+  },
+  {
+    "id": "387",
+    "district-th": "เมืองนครนายก",
+    "province-th": "นครนายก",
+    "district-en": "Mueang Nakhon Nayok",
+    "province-en": "Nakhon Nayok"
+  },
+  {
+    "id": "388",
+    "district-th": "เมืองนครปฐม",
+    "province-th": "นครปฐม",
+    "district-en": "Mueang Nakhon Pathom",
+    "province-en": "Nakhon Pathom"
+  },
+  {
+    "id": "389",
+    "district-th": "เมืองนครพนม",
+    "province-th": "นครพนม",
+    "district-en": "Mueang Nakhon Phanom",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "390",
+    "district-th": "เมืองนครราชสีมา",
+    "province-th": "นครราชสีมา",
+    "district-en": "Mueang Nakhon Ratchasima",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "391",
+    "district-th": "เมืองนครสวรรค์",
+    "province-th": "นครสวรรค์",
+    "district-en": "Mueang Nakhon Sawan",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "392",
+    "district-th": "เมืองนครศรีธรรมราช",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Mueang Nakhon Si Thammarat",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "393",
+    "district-th": "เมืองน่าน",
+    "province-th": "น่าน",
+    "district-en": "Mueang Nan",
+    "province-en": "Nan"
+  },
+  {
+    "id": "394",
+    "district-th": "เมืองนราธิวาส",
+    "province-th": "นราธิวาส",
+    "district-en": "Mueang Narathiwat",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "395",
+    "district-th": "เมืองหนองคาย",
+    "province-th": "หนองคาย",
+    "district-en": "Mueang Nong Khai",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "396",
+    "district-th": "เมืองหนองบัวลำภู",
+    "province-th": "หนองบัวลำภู",
+    "district-en": "Mueang Nongbua Lamphu",
+    "province-en": "Nong Bua Lamphu"
+  },
+  {
+    "id": "397",
+    "district-th": "เมืองนนทบุรี",
+    "province-th": "นนทบุรี",
+    "district-en": "Mueang Nonthaburi",
+    "province-en": "Nonthaburi"
+  },
+  {
+    "id": "398",
+    "district-th": "เมืองปาน",
+    "province-th": "ลำปาง",
+    "district-en": "Mueang Pan",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "399",
+    "district-th": "เมืองปทุมธานี",
+    "province-th": "ปทุมธานี",
+    "district-en": "Mueang Pathum Thani",
+    "province-en": "Pathum Thani"
+  },
+  {
+    "id": "400",
+    "district-th": "เมืองปัตตานี",
+    "province-th": "ปัตตานี",
+    "district-en": "Mueang Pattani",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "401",
+    "district-th": "เมืองพังงา",
+    "province-th": "พังงา",
+    "district-en": "Mueang Phang Nga",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "402",
+    "district-th": "เมืองพัทลุง",
+    "province-th": "พัทลุง",
+    "district-en": "Mueang Phatthalung",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "403",
+    "district-th": "เมืองพะเยา",
+    "province-th": "พะเยา",
+    "district-en": "Mueang Phayao",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "404",
+    "district-th": "เมืองเพชรบูรณ์",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Mueang Phetchabun",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "405",
+    "district-th": "เมืองเพชรบุรี",
+    "province-th": "เพชรบุรี",
+    "district-en": "Mueang Phetchaburi",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "406",
+    "district-th": "เมืองพิจิตร",
+    "province-th": "พิจิตร",
+    "district-en": "Mueang Phichit",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "407",
+    "district-th": "เมืองพิษณุโลก",
+    "province-th": "พิษณุโลก",
+    "district-en": "Mueang Phitsanulok",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "408",
+    "district-th": "เมืองแพร่",
+    "province-th": "แพร่",
+    "district-en": "Mueang Phrae",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "409",
+    "district-th": "เมืองภูเก็ต",
+    "province-th": "ภูเก็ต",
+    "district-en": "Mueang Phuket",
+    "province-en": "Phuket"
+  },
+  {
+    "id": "410",
+    "district-th": "เมืองปราจีนบุรี",
+    "province-th": "ปราจีนบุรี",
+    "district-en": "Mueang Prachinburi",
+    "province-en": "Prachinburi"
+  },
+  {
+    "id": "411",
+    "district-th": "เมืองประจวบคีรีขันธ์",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Mueang Prachuap Khiri Khan",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "412",
+    "district-th": "เมืองระนอง",
+    "province-th": "ระนอง",
+    "district-en": "Mueang Ranong",
+    "province-en": "Ranong"
+  },
+  {
+    "id": "413",
+    "district-th": "เมืองราชบุรี",
+    "province-th": "ราชบุรี",
+    "district-en": "Mueang Ratchaburi",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "414",
+    "district-th": "เมืองระยอง",
+    "province-th": "ระยอง",
+    "district-en": "Mueang Rayong",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "415",
+    "district-th": "เมืองร้อยเอ็ด",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Mueang Roi Et",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "416",
+    "district-th": "เมืองสระแก้ว",
+    "province-th": "สระแก้ว",
+    "district-en": "Mueang Sa Kaeo",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "417",
+    "district-th": "เมืองสกลนคร",
+    "province-th": "สกลนคร",
+    "district-en": "Mueang Sakon Nakhon",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "418",
+    "district-th": "เมืองสมุทรปราการ",
+    "province-th": "สมุทรปราการ",
+    "district-en": "Mueang Samut Prakan",
+    "province-en": "Samut Prakan"
+  },
+  {
+    "id": "419",
+    "district-th": "เมืองสมุทรสาคร",
+    "province-th": "สมุทรสาคร",
+    "district-en": "Mueang Samut Sakhon",
+    "province-en": "Samut Sakhon"
+  },
+  {
+    "id": "420",
+    "district-th": "เมืองสมุทรสงคราม",
+    "province-th": "สมุทรสงคราม",
+    "district-en": "Mueang Samut Songkhram",
+    "province-en": "Samut Songkhram"
+  },
+  {
+    "id": "421",
+    "district-th": "เมืองสระบุรี",
+    "province-th": "สระบุรี",
+    "district-en": "Mueang Saraburi",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "422",
+    "district-th": "เมืองสตูล",
+    "province-th": "สตูล",
+    "district-en": "Mueang Satun",
+    "province-en": "Satun"
+  },
+  {
+    "id": "423",
+    "district-th": "เมืองสิงห์บุรี",
+    "province-th": "สิงห์บุรี",
+    "district-en": "Mueang Sing Buri",
+    "province-en": "Sing Buri"
+  },
+  {
+    "id": "424",
+    "district-th": "เมืองศรีสะเกษ",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Mueang Sisaket",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "425",
+    "district-th": "เมืองสงขลา",
+    "province-th": "สงขลา",
+    "district-en": "Mueang Songkhla",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "426",
+    "district-th": "เมืองสรวง",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Mueang Suang",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "427",
+    "district-th": "เมืองสุโขทัย",
+    "province-th": "สุโขทัย",
+    "district-en": "Mueang Sukhothai",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "428",
+    "district-th": "เมืองสุพรรณบุรี",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Mueang Suphanburi",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "429",
+    "district-th": "เมืองสุราษฎร์ธานี",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Mueang Surat Thani",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "430",
+    "district-th": "เมืองสุรินทร์",
+    "province-th": "สุรินทร์",
+    "district-en": "Mueang Surin",
+    "province-en": "Surin"
+  },
+  {
+    "id": "431",
+    "district-th": "เมืองตาก",
+    "province-th": "ตาก",
+    "district-en": "Mueang Tak",
+    "province-en": "Tak"
+  },
+  {
+    "id": "432",
+    "district-th": "เมืองตรัง",
+    "province-th": "ตรัง",
+    "district-en": "Mueang Trang",
+    "province-en": "Trang"
+  },
+  {
+    "id": "433",
+    "district-th": "เมืองตราด",
+    "province-th": "ตราด",
+    "district-en": "Mueang Trat",
+    "province-en": "Trat"
+  },
+  {
+    "id": "434",
+    "district-th": "เมืองอุบลราชธานี",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Mueang Ubon Ratchathani",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "435",
+    "district-th": "เมืองอุดรธานี",
+    "province-th": "อุดรธานี",
+    "district-en": "Mueang Udon Thani",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "436",
+    "district-th": "เมืองอุทัยธานี",
+    "province-th": "อุทัยธานี",
+    "district-en": "Mueang Uthai Thani",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "437",
+    "district-th": "เมืองอุตรดิตถ์",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Mueang Uttaradit",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "438",
+    "district-th": "เมืองยะลา",
+    "province-th": "ยะลา",
+    "district-en": "Mueang Yala",
+    "province-en": "Yala"
+  },
+  {
+    "id": "439",
+    "district-th": "เมืองยาง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Mueang Yang",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "440",
+    "district-th": "เมืองยโสธร",
+    "province-th": "ยโสธร",
+    "district-en": "Mueang Yasothon",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "441",
+    "district-th": "นาบอน",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Na Bon",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "442",
+    "district-th": "นาจะหลวย",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Na Chaluai",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "443",
+    "district-th": "นาเชือก",
+    "province-th": "มหาสารคาม",
+    "district-en": "Na Chueak",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "444",
+    "district-th": "นาดี",
+    "province-th": "ปราจีนบุรี",
+    "district-en": "Na Di",
+    "province-en": "Prachinburi"
+  },
+  {
+    "id": "445",
+    "district-th": "นาด้วง",
+    "province-th": "เลย",
+    "district-en": "Na Duang",
+    "province-en": "Loei"
+  },
+  {
+    "id": "446",
+    "district-th": "นาดูน",
+    "province-th": "มหาสารคาม",
+    "district-en": "Na Dun",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "447",
+    "district-th": "นาแห้ว",
+    "province-th": "เลย",
+    "district-en": "Na Haeo",
+    "province-en": "Loei"
+  },
+  {
+    "id": "448",
+    "district-th": "นาแก",
+    "province-th": "นครพนม",
+    "district-en": "Na Kae",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "449",
+    "district-th": "นาคู",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Na Khu",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "450",
+    "district-th": "นากลาง",
+    "province-th": "หนองบัวลำภู",
+    "district-en": "Na Klang",
+    "province-en": "Nong Bua Lamphu"
+  },
+  {
+    "id": "451",
+    "district-th": "นาหม่อม",
+    "province-th": "สงขลา",
+    "district-en": "Na Mom",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "452",
+    "district-th": "นามน",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Na Mon",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "453",
+    "district-th": "นาหมื่น",
+    "province-th": "น่าน",
+    "district-en": "Na Muen",
+    "province-en": "Nan"
+  },
+  {
+    "id": "454",
+    "district-th": "นาน้อย",
+    "province-th": "น่าน",
+    "district-en": "Na Noi",
+    "province-en": "Nan"
+  },
+  {
+    "id": "455",
+    "district-th": "นาโพธิ์",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Na Pho",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "456",
+    "district-th": "นาตาล",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Na Tan",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "457",
+    "district-th": "นาทวี",
+    "province-th": "สงขลา",
+    "district-en": "Na Thawi",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "458",
+    "district-th": "นาทม",
+    "province-th": "นครพนม",
+    "district-en": "Na Thom",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "459",
+    "district-th": "นาหว้า",
+    "province-th": "นครพนม",
+    "district-en": "Na Wa",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "460",
+    "district-th": "นาวัง",
+    "province-th": "หนองบัวลำภู",
+    "district-en": "Na Wang",
+    "province-en": "Nong Bua Lamphu"
+  },
+  {
+    "id": "461",
+    "district-th": "นายายอาม",
+    "province-th": "จันทบุรี",
+    "district-en": "Na Yai Am",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "462",
+    "district-th": "นาเยีย",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Na Yia",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "463",
+    "district-th": "นาโยง",
+    "province-th": "ตรัง",
+    "district-en": "Na Yong",
+    "province-en": "Trang"
+  },
+  {
+    "id": "464",
+    "district-th": "นายูง",
+    "province-th": "อุดรธานี",
+    "district-en": "Na Yung",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "465",
+    "district-th": "นครชัยศรี",
+    "province-th": "นครปฐม",
+    "district-en": "Nakhon Chai Si",
+    "province-en": "Nakhon Pathom"
+  },
+  {
+    "id": "466",
+    "district-th": "นครหลวง",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Nakhon Luang",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "467",
+    "district-th": "นครไทย",
+    "province-th": "พิษณุโลก",
+    "district-en": "Nakhon Thai",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "468",
+    "district-th": "น้ำขุ่น",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Nam Khun",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "469",
+    "district-th": "น้ำเกลี้ยง",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Nam Kliang",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "470",
+    "district-th": "น้ำหนาว",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Nam Nao",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "471",
+    "district-th": "น้ำปาด",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Nam Pat",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "472",
+    "district-th": "น้ำพอง",
+    "province-th": "ขอนแก่น",
+    "district-en": "Nam Phong",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "473",
+    "district-th": "น้ำโสม",
+    "province-th": "อุดรธานี",
+    "district-en": "Nam Som",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "474",
+    "district-th": "น้ำยืน",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Nam Yuen",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "475",
+    "district-th": "นางรอง",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Nang Rong",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "476",
+    "district-th": "งาว",
+    "province-th": "ลำปาง",
+    "district-en": "Ngao",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "477",
+    "district-th": "นิคมคำสร้อย",
+    "province-th": "มุกดาหาร",
+    "district-en": "Nikhom Kham Soi",
+    "province-en": "Mukdahan"
+  },
+  {
+    "id": "478",
+    "district-th": "นิคมน้ำอูน",
+    "province-th": "สกลนคร",
+    "district-en": "Nikhom Nam Un",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "479",
+    "district-th": "นิคมพัฒนา",
+    "province-th": "ระยอง",
+    "district-en": "Nikhom Phatthana",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "480",
+    "district-th": "เนินขาม",
+    "province-th": "ชัยนาท",
+    "district-en": "Noen Kham",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "481",
+    "district-th": "เนินมะปราง",
+    "province-th": "พิษณุโลก",
+    "district-en": "Noen Maprang",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "482",
+    "district-th": "เนินสง่า",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Noen Sa-nga",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "483",
+    "district-th": "โนนแดง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Non Daeng",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "484",
+    "district-th": "โนนดินแดง",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Non Din Daeng",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "485",
+    "district-th": "โนนคูณ",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Non Khun",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "486",
+    "district-th": "โนนนารายณ์",
+    "province-th": "สุรินทร์",
+    "district-en": "Non Narai",
+    "province-en": "Surin"
+  },
+  {
+    "id": "487",
+    "district-th": "โนนสะอาด",
+    "province-th": "อุดรธานี",
+    "district-en": "Non Sa-at",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "488",
+    "district-th": "โนนสัง",
+    "province-th": "หนองบัวลำภู",
+    "district-en": "Non Sang",
+    "province-en": "Nong Bua Lamphu"
+  },
+  {
+    "id": "489",
+    "district-th": "โนนศิลา",
+    "province-th": "ขอนแก่น",
+    "district-en": "Non Sila",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "490",
+    "district-th": "โนนสูง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Non Sung",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "491",
+    "district-th": "โนนสุวรรณ",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Non Suwan",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "492",
+    "district-th": "โนนไทย",
+    "province-th": "นครราชสีมา",
+    "district-en": "Non Thai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "493",
+    "district-th": "หนองบัว",
+    "province-th": "นครสวรรค์",
+    "district-en": "Nong Bua",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "494",
+    "district-th": "หนองบัวแดง",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Nong Bua Daeng",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "495",
+    "district-th": "หนองบัวระเหว",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Nong Bua Rawe",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "496",
+    "district-th": "หนองบุญมาก",
+    "province-th": "นครราชสีมา",
+    "district-en": "Nong Bun Mak",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "497",
+    "district-th": "หนองฉาง",
+    "province-th": "อุทัยธานี",
+    "district-en": "Nong Chang",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "498",
+    "district-th": "หนองจิก",
+    "province-th": "ปัตตานี",
+    "district-en": "Nong Chik",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "499",
+    "district-th": "หนองโดน",
+    "province-th": "สระบุรี",
+    "district-en": "Nong Don",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "500",
+    "district-th": "หนองหาน",
+    "province-th": "อุดรธานี",
+    "district-en": "Nong Han",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "501",
+    "district-th": "หนองฮี",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Nong Hi",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "502",
+    "district-th": "หนองหิน",
+    "province-th": "เลย",
+    "district-en": "Nong Hin",
+    "province-en": "Loei"
+  },
+  {
+    "id": "503",
+    "district-th": "หนองหงส์",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Nong Hong",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "504",
+    "district-th": "หนองแค",
+    "province-th": "สระบุรี",
+    "district-en": "Nong Khae",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "505",
+    "district-th": "หนองขาหย่าง",
+    "province-th": "อุทัยธานี",
+    "district-en": "Nong Khayang",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "506",
+    "district-th": "หนองกี่",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Nong Ki",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "507",
+    "district-th": "หนองกุงศรี",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Nong Kung Si",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "508",
+    "district-th": "หนองมะโมง",
+    "province-th": "ชัยนาท",
+    "district-en": "Nong Mamong",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "509",
+    "district-th": "หนองม่วง",
+    "province-th": "ลพบุรี",
+    "district-en": "Nong Muang",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "510",
+    "district-th": "หนองม่วงไข่",
+    "province-th": "แพร่",
+    "district-en": "Nong Muang Khai",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "511",
+    "district-th": "หนองนาคำ",
+    "province-th": "ขอนแก่น",
+    "district-en": "Nong Na Kham",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "512",
+    "district-th": "หนองไผ่",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Nong Phai",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "513",
+    "district-th": "หนองพอก",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Nong Phok",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "514",
+    "district-th": "หนองปรือ",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Nong Prue",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "515",
+    "district-th": "หนองเรือ",
+    "province-th": "ขอนแก่น",
+    "district-en": "Nong Ruea",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "516",
+    "district-th": "หนองแสง",
+    "province-th": "อุดรธานี",
+    "district-en": "Nong Saeng",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "517",
+    "district-th": "หนองแซง",
+    "province-th": "สระบุรี",
+    "district-en": "Nong Saeng",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "518",
+    "district-th": "หนองสองห้อง",
+    "province-th": "ขอนแก่น",
+    "district-en": "Nong Song Hong",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "519",
+    "district-th": "หนองเสือ",
+    "province-th": "ปทุมธานี",
+    "district-en": "Nong Suea",
+    "province-en": "Pathum Thani"
+  },
+  {
+    "id": "520",
+    "district-th": "หนองสูง",
+    "province-th": "มุกดาหาร",
+    "district-en": "Nong Sung",
+    "province-en": "Mukdahan"
+  },
+  {
+    "id": "521",
+    "district-th": "หนองวัวซอ",
+    "province-th": "อุดรธานี",
+    "district-en": "Nong Wua So",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "522",
+    "district-th": "หนองหญ้าปล้อง",
+    "province-th": "เพชรบุรี",
+    "district-en": "Nong Ya Plong",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "523",
+    "district-th": "หนองหญ้าไซ",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Nong Ya Sai",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "524",
+    "district-th": "หนองใหญ่",
+    "province-th": "ชลบุรี",
+    "district-en": "Nong Yai",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "525",
+    "district-th": "นบพิตำ",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Nopphitam",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "526",
+    "district-th": "เหนือคลอง",
+    "province-th": "กระบี่",
+    "district-en": "Nuea Khlong",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "527",
+    "district-th": "อมก๋อย",
+    "province-th": "เชียงใหม่",
+    "district-en": "Omkoi",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "528",
+    "district-th": "องครักษ์",
+    "province-th": "นครนายก",
+    "district-en": "Ongkharak",
+    "province-en": "Nakhon Nayok"
+  },
+  {
+    "id": "529",
+    "district-th": "ป่าบอน",
+    "province-th": "พัทลุง",
+    "district-en": "Pa Bon",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "530",
+    "district-th": "ป่าแดด",
+    "province-th": "เชียงราย",
+    "district-en": "Pa Daet",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "531",
+    "district-th": "ป่าโมก",
+    "province-th": "อ่างทอง",
+    "district-en": "Pa Mok",
+    "province-en": "Ang Thong"
+  },
+  {
+    "id": "532",
+    "district-th": "ป่าพะยอม",
+    "province-th": "พัทลุง",
+    "district-en": "Pa Phayom",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "533",
+    "district-th": "ป่าซาง",
+    "province-th": "ลำพูน",
+    "district-en": "Pa Sang",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "534",
+    "district-th": "ป่าติ้ว",
+    "province-th": "ยโสธร",
+    "district-en": "Pa Tio",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "535",
+    "district-th": "ปาย",
+    "province-th": "แม่ฮ่องสอน",
+    "district-en": "Pai",
+    "province-en": "Mae Hong Son"
+  },
+  {
+    "id": "536",
+    "district-th": "ปากชม",
+    "province-th": "เลย",
+    "district-en": "Pak Chom",
+    "province-en": "Loei"
+  },
+  {
+    "id": "537",
+    "district-th": "ปากช่อง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Pak Chong",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "538",
+    "district-th": "ปากคาด",
+    "province-th": "บึงกาฬ",
+    "district-en": "Pak Khat",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "539",
+    "district-th": "ปากเกร็ด",
+    "province-th": "นนทบุรี",
+    "district-en": "Pak Kret",
+    "province-en": "Nonthaburi"
+  },
+  {
+    "id": "540",
+    "district-th": "ปากพนัง",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Pak Phanang",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "541",
+    "district-th": "ปากพะยูน",
+    "province-th": "พัทลุง",
+    "district-en": "Pak Phayun",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "542",
+    "district-th": "ปากพลี",
+    "province-th": "นครนายก",
+    "district-en": "Pak Phli",
+    "province-en": "Nakhon Nayok"
+  },
+  {
+    "id": "543",
+    "district-th": "ปากท่อ",
+    "province-th": "ราชบุรี",
+    "district-en": "Pak Tho",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "544",
+    "district-th": "ปักธงชัย",
+    "province-th": "นครราชสีมา",
+    "district-en": "Pak Thong Chai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "545",
+    "district-th": "ปะคำ",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Pakham",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "546",
+    "district-th": "ปะเหลียน",
+    "province-th": "ตรัง",
+    "district-en": "Palian",
+    "province-en": "Trang"
+  },
+  {
+    "id": "547",
+    "district-th": "ปะนาเระ",
+    "province-th": "ปัตตานี",
+    "district-en": "Panare",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "548",
+    "district-th": "ปางมะผ้า",
+    "province-th": "แม่ฮ่องสอน",
+    "district-en": "Pang Mapha",
+    "province-en": "Mae Hong Son"
+  },
+  {
+    "id": "549",
+    "district-th": "ปางศิลาทอง",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Pang Sila Thong",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "550",
+    "district-th": "ปะทิว",
+    "province-th": "ชุมพร",
+    "district-en": "Pathio",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "551",
+    "district-th": "ปทุมรัตต์",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Pathum Rat",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "552",
+    "district-th": "ปทุมราชวงศา",
+    "province-th": "อำนาจเจริญ",
+    "district-en": "Pathum Ratchawongsa",
+    "province-en": "Amnat Charoen"
+  },
+  {
+    "id": "553",
+    "district-th": "ผาขาว",
+    "province-th": "เลย",
+    "district-en": "Pha Khao",
+    "province-en": "Loei"
+  },
+  {
+    "id": "554",
+    "district-th": "ภาชี",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Phachi",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "555",
+    "district-th": "ไพศาลี",
+    "province-th": "นครสวรรค์",
+    "district-en": "Phaisali",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "556",
+    "district-th": "ผักไห่",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Phak Hai",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "557",
+    "district-th": "ภักดีชุมพล",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Phakdi Chumphon",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "558",
+    "district-th": "พาน",
+    "province-th": "เชียงราย",
+    "district-en": "Phan",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "559",
+    "district-th": "พานทอง",
+    "province-th": "ชลบุรี",
+    "district-en": "Phan Thong",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "560",
+    "district-th": "พนา",
+    "province-th": "อำนาจเจริญ",
+    "district-en": "Phana",
+    "province-en": "Amnat Charoen"
+  },
+  {
+    "id": "561",
+    "district-th": "พนัสนิคม",
+    "province-th": "ชลบุรี",
+    "district-en": "Phanat Nikhom",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "562",
+    "district-th": "พังโคน",
+    "province-th": "สกลนคร",
+    "district-en": "Phang Khon",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "563",
+    "district-th": "พรรณนานิคม",
+    "province-th": "สกลนคร",
+    "district-en": "Phanna Nikhom",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "564",
+    "district-th": "พนม",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Phanom",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "565",
+    "district-th": "พนมดงรัก",
+    "province-th": "สุรินทร์",
+    "district-en": "Phanom Dong Rak",
+    "province-en": "Surin"
+  },
+  {
+    "id": "566",
+    "district-th": "พนมไพร",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Phanom Phrai",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "567",
+    "district-th": "พนมสารคาม",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Phanom Sarakham",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "568",
+    "district-th": "พนมทวน",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Phanom Thuan",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "569",
+    "district-th": "พะโต๊ะ",
+    "province-th": "ชุมพร",
+    "district-en": "Phato",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "570",
+    "district-th": "พัฒนานิคม",
+    "province-th": "ลพบุรี",
+    "district-en": "Phatthana Nikhom",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "571",
+    "district-th": "พญาเม็งราย",
+    "province-th": "เชียงราย",
+    "district-en": "Phaya Mengrai",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "572",
+    "district-th": "พยัคฆภูมิพิสัย",
+    "province-th": "มหาสารคาม",
+    "district-en": "Phayakkhaphum Phisai",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "573",
+    "district-th": "พยุห์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Phayu",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "574",
+    "district-th": "พยุหะคีรี",
+    "province-th": "นครสวรรค์",
+    "district-en": "Phayuha Khiri",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "575",
+    "district-th": "เพ็ญ",
+    "province-th": "อุดรธานี",
+    "district-en": "Phen",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "576",
+    "district-th": "พิบูลมังสาหาร",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Phibun Mangsahan",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "577",
+    "district-th": "พิบูลย์รักษ์",
+    "province-th": "อุดรธานี",
+    "district-en": "Phibun Rak",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "578",
+    "district-th": "พิชัย",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Phichai",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "579",
+    "district-th": "พิมาย",
+    "province-th": "นครราชสีมา",
+    "district-en": "Phimai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "580",
+    "district-th": "พิปูน",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Phipun",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "581",
+    "district-th": "พลับพลาชัย",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Phlapphla Chai",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "582",
+    "district-th": "โพธิ์ชัย",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Pho Chai",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "583",
+    "district-th": "โพธิ์ประทับช้าง",
+    "province-th": "พิจิตร",
+    "district-en": "Pho Prathap Chang",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "584",
+    "district-th": "โพธิ์ไทร",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Pho Sai",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "585",
+    "district-th": "โพธิ์ศรีสุวรรณ",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Pho Si Suwan",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "586",
+    "district-th": "โพธิ์ตาก",
+    "province-th": "หนองคาย",
+    "district-en": "Pho Tak",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "587",
+    "district-th": "โพทะเล",
+    "province-th": "พิจิตร",
+    "district-en": "Pho Thale",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "588",
+    "district-th": "โพธิ์ทอง",
+    "province-th": "อ่างทอง",
+    "district-en": "Pho Thong",
+    "province-en": "Ang Thong"
+  },
+  {
+    "id": "589",
+    "district-th": "พล",
+    "province-th": "ขอนแก่น",
+    "district-en": "Phon",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "590",
+    "district-th": "พรเจริญ",
+    "province-th": "บึงกาฬ",
+    "district-en": "Phon Charoen",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "591",
+    "district-th": "โพนนาแก้ว",
+    "province-th": "สกลนคร",
+    "district-en": "Phon Na Kaeo",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "592",
+    "district-th": "โพนพิสัย",
+    "province-th": "หนองคาย",
+    "district-en": "Phon Phisai",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "593",
+    "district-th": "โพนทราย",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Phon Sai",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "594",
+    "district-th": "โพนสวรรค์",
+    "province-th": "นครพนม",
+    "district-en": "Phon Sawan",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "595",
+    "district-th": "โพนทอง",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Phon Thong",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "596",
+    "district-th": "พบพระ",
+    "province-th": "ตาก",
+    "district-en": "Phop Phra",
+    "province-en": "Tak"
+  },
+  {
+    "id": "597",
+    "district-th": "โพธาราม",
+    "province-th": "ราชบุรี",
+    "district-en": "Photharam",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "598",
+    "district-th": "พระนครศรีอยุธยา",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Phra Nakhon Si Ayutthaya",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "599",
+    "district-th": "พระพรหม",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Phra Phrom",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "600",
+    "district-th": "พระพุทธบาท",
+    "province-th": "สระบุรี",
+    "district-en": "Phra Phutthabat",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "601",
+    "district-th": "พระประแดง",
+    "province-th": "สมุทรปราการ",
+    "district-en": "Phra Pradaeng",
+    "province-en": "Samut Prakan"
+  },
+  {
+    "id": "602",
+    "district-th": "พระสมุทรเจดีย์",
+    "province-th": "สมุทรปราการ",
+    "district-en": "Phra Samut Chedi",
+    "province-en": "Samut Prakan"
+  },
+  {
+    "id": "603",
+    "district-th": "พระทองคำ",
+    "province-th": "นครราชสีมา",
+    "district-en": "Phra Thong Kham",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "604",
+    "district-th": "พระยืน",
+    "province-th": "ขอนแก่น",
+    "district-en": "Phra Yuen",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "605",
+    "district-th": "ไพรบึง",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Phrai Bueng",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "606",
+    "district-th": "พรานกระต่าย",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Phran Kratai",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "607",
+    "district-th": "พร้าว",
+    "province-th": "เชียงใหม่",
+    "district-en": "Phrao",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "608",
+    "district-th": "พระแสง",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Phrasaeng",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "609",
+    "district-th": "พรหมบุรี",
+    "province-th": "สิงห์บุรี",
+    "district-en": "Phrom Buri",
+    "province-en": "Sing Buri"
+  },
+  {
+    "id": "610",
+    "district-th": "พรหมคีรี",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Phrom Khiri",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "611",
+    "district-th": "พรหมพิราม",
+    "province-th": "พิษณุโลก",
+    "district-en": "Phrom Phiram",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "612",
+    "district-th": "ภูกามยาว",
+    "province-th": "พะเยา",
+    "district-en": "Phu Kamyao",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "613",
+    "district-th": "ภูเขียว",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Phu Khiao",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "614",
+    "district-th": "ภูกระดึง",
+    "province-th": "เลย",
+    "district-en": "Phu Kradueng",
+    "province-en": "Loei"
+  },
+  {
+    "id": "615",
+    "district-th": "ภูหลวง",
+    "province-th": "เลย",
+    "district-en": "Phu Luang",
+    "province-en": "Loei"
+  },
+  {
+    "id": "616",
+    "district-th": "ภูผาม่าน",
+    "province-th": "ขอนแก่น",
+    "district-en": "Phu Pha Man",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "617",
+    "district-th": "ภูพาน",
+    "province-th": "สกลนคร",
+    "district-en": "Phu Phan",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "618",
+    "district-th": "ภูเพียง",
+    "province-th": "น่าน",
+    "district-en": "Phu Phiang",
+    "province-en": "Nan"
+  },
+  {
+    "id": "619",
+    "district-th": "ภูเรือ",
+    "province-th": "เลย",
+    "district-en": "Phu Ruea",
+    "province-en": "Loei"
+  },
+  {
+    "id": "620",
+    "district-th": "ภูซาง",
+    "province-th": "พะเยา",
+    "district-en": "Phu Sang",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "621",
+    "district-th": "ภูสิงห์",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Phu Sing",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "622",
+    "district-th": "ภูเวียง",
+    "province-th": "ขอนแก่น",
+    "district-en": "Phu Wiang",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "623",
+    "district-th": "พุนพิน",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Phunphin",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "624",
+    "district-th": "พุทไธสง",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Phutthaisong",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "625",
+    "district-th": "พุทธมณฑล",
+    "province-th": "นครปฐม",
+    "district-en": "Phutthamonthon",
+    "province-en": "Nakhon Pathom"
+  },
+  {
+    "id": "626",
+    "district-th": "ปลาปาก",
+    "province-th": "นครพนม",
+    "district-en": "Pla Pak",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "627",
+    "district-th": "แปลงยาว",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Plaeng Yao",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "628",
+    "district-th": "ปลายพระยา",
+    "province-th": "กระบี่",
+    "district-en": "Plai Phraya",
+    "province-en": "Krabi"
+  },
+  {
+    "id": "629",
+    "district-th": "ปลวกแดง",
+    "province-th": "ระยอง",
+    "district-en": "Pluak Daeng",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "630",
+    "district-th": "ปง",
+    "province-th": "พะเยา",
+    "district-en": "Pong",
+    "province-en": "Phayao"
+  },
+  {
+    "id": "631",
+    "district-th": "โป่งน้ำร้อน",
+    "province-th": "จันทบุรี",
+    "district-en": "Pong Nam Ron",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "632",
+    "district-th": "ประจักษ์ศิลปาคม",
+    "province-th": "อุดรธานี",
+    "district-en": "Prachaksinlapakhom",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "633",
+    "district-th": "ประจันตคาม",
+    "province-th": "ปราจีนบุรี",
+    "district-en": "Prachantakham",
+    "province-en": "Prachinburi"
+  },
+  {
+    "id": "634",
+    "district-th": "ประโคนชัย",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Prakhon Chai",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "635",
+    "district-th": "ปราณบุรี",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Pran Buri",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "636",
+    "district-th": "ปรางค์กู่",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Prang Ku",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "637",
+    "district-th": "ปราสาท",
+    "province-th": "สุรินทร์",
+    "district-en": "Prasat",
+    "province-en": "Surin"
+  },
+  {
+    "id": "638",
+    "district-th": "ประทาย",
+    "province-th": "นครราชสีมา",
+    "district-en": "Prathai",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "639",
+    "district-th": "ปัว",
+    "province-th": "น่าน",
+    "district-en": "Pua",
+    "province-en": "Nan"
+  },
+  {
+    "id": "640",
+    "district-th": "เปือยน้อย",
+    "province-th": "ขอนแก่น",
+    "district-en": "Pueai Noi",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "641",
+    "district-th": "ระแงะ",
+    "province-th": "นราธิวาส",
+    "district-en": "Ra-ngae",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "642",
+    "district-th": "รามัน",
+    "province-th": "ยะลา",
+    "district-en": "Raman",
+    "province-en": "Yala"
+  },
+  {
+    "id": "643",
+    "district-th": "ระโนด",
+    "province-th": "สงขลา",
+    "district-en": "Ranot",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "644",
+    "district-th": "ราษีไศล",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Rasi Salai",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "645",
+    "district-th": "ราชสาส์น",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Ratchasan",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "646",
+    "district-th": "รัษฎา",
+    "province-th": "ตรัง",
+    "district-en": "Ratsada",
+    "province-en": "Trang"
+  },
+  {
+    "id": "647",
+    "district-th": "รัตนบุรี",
+    "province-th": "สุรินทร์",
+    "district-en": "Rattanaburi",
+    "province-en": "Surin"
+  },
+  {
+    "id": "648",
+    "district-th": "รัตนวาปี",
+    "province-th": "หนองคาย",
+    "district-en": "Rattanawapi",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "649",
+    "district-th": "รัตภูมิ",
+    "province-th": "สงขลา",
+    "district-en": "Rattaphum",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "650",
+    "district-th": "เรณูนคร",
+    "province-th": "นครพนม",
+    "district-en": "Renu Nakhon",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "651",
+    "district-th": "ร่อนพิบูลย์",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Ron Phibun",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "652",
+    "district-th": "ร่องคำ",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Rong Kham",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "653",
+    "district-th": "ร้องกวาง",
+    "province-th": "แพร่",
+    "district-en": "Rong Kwang",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "654",
+    "district-th": "รือเสาะ",
+    "province-th": "นราธิวาส",
+    "district-en": "Rueso",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "655",
+    "district-th": "สระโบสถ์",
+    "province-th": "ลพบุรี",
+    "district-en": "Sa Bot",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "656",
+    "district-th": "สะบ้าย้อย",
+    "province-th": "สงขลา",
+    "district-en": "Saba Yoi",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "657",
+    "district-th": "สะเดา",
+    "province-th": "สงขลา",
+    "district-en": "Sadao",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "658",
+    "district-th": "สหัสขันธ์",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Sahatsakhan",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "659",
+    "district-th": "สายบุรี",
+    "province-th": "ปัตตานี",
+    "district-en": "Sai Buri",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "660",
+    "district-th": "ทรายมูล",
+    "province-th": "ยโสธร",
+    "district-en": "Sai Mun",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "661",
+    "district-th": "ไทรงาม",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Sai Ngam",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "662",
+    "district-th": "ไทรน้อย",
+    "province-th": "นนทบุรี",
+    "district-en": "Sai Noi",
+    "province-en": "Nonthaburi"
+  },
+  {
+    "id": "663",
+    "district-th": "ทรายทองวัฒนา",
+    "province-th": "กำแพงเพชร",
+    "district-en": "Sai Thong Watthana",
+    "province-en": "Kamphaeng Phet"
+  },
+  {
+    "id": "664",
+    "district-th": "ไทรโยค",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Sai Yok",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "665",
+    "district-th": "สากเหล็ก",
+    "province-th": "พิจิตร",
+    "district-en": "Sak Lek",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "666",
+    "district-th": "สระใคร",
+    "province-th": "หนองคาย",
+    "district-en": "Sakhrai",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "667",
+    "district-th": "สามชัย",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Sam Chai",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "668",
+    "district-th": "สามชุก",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Sam Chuk",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "669",
+    "district-th": "สามโคก",
+    "province-th": "ปทุมธานี",
+    "district-en": "Sam Khok",
+    "province-en": "Pathum Thani"
+  },
+  {
+    "id": "670",
+    "district-th": "สามง่าม",
+    "province-th": "พิจิตร",
+    "district-en": "Sam Ngam",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "671",
+    "district-th": "สามเงา",
+    "province-th": "ตาก",
+    "district-en": "Sam Ngao",
+    "province-en": "Tak"
+  },
+  {
+    "id": "672",
+    "district-th": "สามพราน",
+    "province-th": "นครปฐม",
+    "district-en": "Sam Phran",
+    "province-en": "Nakhon Pathom"
+  },
+  {
+    "id": "673",
+    "district-th": "สามร้อยยอด",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Sam Roi Yot",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "674",
+    "district-th": "ซำสูง",
+    "province-th": "ขอนแก่น",
+    "district-en": "Sam Sung",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "675",
+    "district-th": "สามโก้",
+    "province-th": "อ่างทอง",
+    "district-en": "Samko",
+    "province-en": "Ang Thong"
+  },
+  {
+    "id": "676",
+    "district-th": "สะเมิง",
+    "province-th": "เชียงใหม่",
+    "district-en": "Samoeng",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "677",
+    "district-th": "สำโรง",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Samrong",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "678",
+    "district-th": "สำโรงทาบ",
+    "province-th": "สุรินทร์",
+    "district-en": "Samrong Thap",
+    "province-en": "Surin"
+  },
+  {
+    "id": "679",
+    "district-th": "สันกำแพง",
+    "province-th": "เชียงใหม่",
+    "district-en": "San Kamphaeng",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "680",
+    "district-th": "สันป่าตอง",
+    "province-th": "เชียงใหม่",
+    "district-en": "San Pa Tong",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "681",
+    "district-th": "สันทราย",
+    "province-th": "เชียงใหม่",
+    "district-en": "San Sai",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "682",
+    "district-th": "สนามชัยเขต",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Sanam Chai Khet",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "683",
+    "district-th": "สร้างคอม",
+    "province-th": "อุดรธานี",
+    "district-en": "Sang Khom",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "684",
+    "district-th": "สังขะ",
+    "province-th": "สุรินทร์",
+    "district-en": "Sangkha",
+    "province-en": "Surin"
+  },
+  {
+    "id": "685",
+    "district-th": "สังขละบุรี",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Sangkhla Buri",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "686",
+    "district-th": "สังคม",
+    "province-th": "หนองคาย",
+    "district-en": "Sangkhom",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "687",
+    "district-th": "สรรคบุรี",
+    "province-th": "ชัยนาท",
+    "district-en": "Sankhaburi",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "688",
+    "district-th": "สนม",
+    "province-th": "สุรินทร์",
+    "district-en": "Sanom",
+    "province-en": "Surin"
+  },
+  {
+    "id": "689",
+    "district-th": "สันติสุข",
+    "province-th": "น่าน",
+    "district-en": "Santi Suk",
+    "province-en": "Nan"
+  },
+  {
+    "id": "690",
+    "district-th": "เสาไห้",
+    "province-th": "สระบุรี",
+    "district-en": "Sao Hai",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "691",
+    "district-th": "ซับใหญ่",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Sap Yai",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "692",
+    "district-th": "สรรพยา",
+    "province-th": "ชัยนาท",
+    "district-en": "Sapphaya",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "693",
+    "district-th": "สารภี",
+    "province-th": "เชียงใหม่",
+    "district-en": "Saraphi",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "694",
+    "district-th": "สทิงพระ",
+    "province-th": "สงขลา",
+    "district-en": "Sathing Phra",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "695",
+    "district-th": "สัตหีบ",
+    "province-th": "ชลบุรี",
+    "district-en": "Sattahip",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "696",
+    "district-th": "สตึก",
+    "province-th": "บุรีรัมย์",
+    "district-en": "Satuek",
+    "province-en": "Buriram"
+  },
+  {
+    "id": "697",
+    "district-th": "แสวงหา",
+    "province-th": "อ่างทอง",
+    "district-en": "Sawaeng Ha",
+    "province-en": "Ang Thong"
+  },
+  {
+    "id": "698",
+    "district-th": "สว่างอารมณ์",
+    "province-th": "อุทัยธานี",
+    "district-en": "Sawang Arom",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "699",
+    "district-th": "สว่างแดนดิน",
+    "province-th": "สกลนคร",
+    "district-en": "Sawang Daen Din",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "700",
+    "district-th": "สว่างวีระวงศ์",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Sawang Wirawong",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "701",
+    "district-th": "สวรรคโลก",
+    "province-th": "สุโขทัย",
+    "district-en": "Sawankhalok",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "702",
+    "district-th": "สวี",
+    "province-th": "ชุมพร",
+    "district-en": "Sawi",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "703",
+    "district-th": "เซกา",
+    "province-th": "บึงกาฬ",
+    "district-en": "Seka",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "704",
+    "district-th": "เสลภูมิ",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Selaphum",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "705",
+    "district-th": "เสนา",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Sena",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "706",
+    "district-th": "เสนางคนิคม",
+    "province-th": "อำนาจเจริญ",
+    "district-en": "Senangkhanikhom",
+    "province-en": "Amnat Charoen"
+  },
+  {
+    "id": "707",
+    "district-th": "ศรีบรรพต",
+    "province-th": "พัทลุง",
+    "district-en": "Si Banphot",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "708",
+    "district-th": "ศรีบุญเรือง",
+    "province-th": "หนองบัวลำภู",
+    "district-en": "Si Bun Rueang",
+    "province-en": "Nong Bua Lamphu"
+  },
+  {
+    "id": "709",
+    "district-th": "ศรีเชียงใหม่",
+    "province-th": "หนองคาย",
+    "district-en": "Si Chiang Mai",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "710",
+    "district-th": "สีชมพู",
+    "province-th": "ขอนแก่น",
+    "district-en": "Si Chomphu",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "711",
+    "district-th": "ศรีมหาโพธิ",
+    "province-th": "ปราจีนบุรี",
+    "district-en": "Si Maha Phot",
+    "province-en": "Prachinburi"
+  },
+  {
+    "id": "712",
+    "district-th": "ศรีมโหสถ",
+    "province-th": "ปราจีนบุรี",
+    "district-en": "Si Mahosot",
+    "province-en": "Prachinburi"
+  },
+  {
+    "id": "713",
+    "district-th": "ศรีเมืองใหม่",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Si Mueang Mai",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "714",
+    "district-th": "ศรีนคร",
+    "province-th": "สุโขทัย",
+    "district-en": "Si Nakhon",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "715",
+    "district-th": "ศรีณรงค์",
+    "province-th": "สุรินทร์",
+    "district-en": "Si Narong",
+    "province-en": "Surin"
+  },
+  {
+    "id": "716",
+    "district-th": "ศรีประจันต์",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Si Prachan",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "717",
+    "district-th": "ศรีราชา",
+    "province-th": "ชลบุรี",
+    "district-en": "Si Racha",
+    "province-en": "Chonburi"
+  },
+  {
+    "id": "718",
+    "district-th": "ศรีรัตนะ",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Si Rattana",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "719",
+    "district-th": "ศรีสาคร",
+    "province-th": "นราธิวาส",
+    "district-en": "Si Sakhon",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "720",
+    "district-th": "ศรีสำโรง",
+    "province-th": "สุโขทัย",
+    "district-en": "Si Samrong",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "721",
+    "district-th": "ศรีสัชนาลัย",
+    "province-th": "สุโขทัย",
+    "district-en": "Si Satchanalai",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "722",
+    "district-th": "ศรีสวัสดิ์",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Si Sawat",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "723",
+    "district-th": "ศรีสมเด็จ",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Si Somdet",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "724",
+    "district-th": "ศรีสงคราม",
+    "province-th": "นครพนม",
+    "district-en": "Si Songkhram",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "725",
+    "district-th": "ศรีธาตุ",
+    "province-th": "อุดรธานี",
+    "district-en": "Si That",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "726",
+    "district-th": "ศรีเทพ",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Si Thep",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "727",
+    "district-th": "ศรีวิไล",
+    "province-th": "บึงกาฬ",
+    "district-en": "Si Wilai",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "728",
+    "district-th": "สิชล",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Sichon",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "729",
+    "district-th": "สีดา",
+    "province-th": "นครราชสีมา",
+    "district-en": "Sida",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "730",
+    "district-th": "สิเกา",
+    "province-th": "ตรัง",
+    "district-en": "Sikao",
+    "province-en": "Trang"
+  },
+  {
+    "id": "731",
+    "district-th": "สีคิ้ว",
+    "province-th": "นครราชสีมา",
+    "district-en": "Sikhio",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "732",
+    "district-th": "ศีขรภูมิ",
+    "province-th": "สุรินทร์",
+    "district-en": "Sikhoraphum",
+    "province-en": "Surin"
+  },
+  {
+    "id": "733",
+    "district-th": "ศิลาลาด",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Sila Lat",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "734",
+    "district-th": "สิงหนคร",
+    "province-th": "สงขลา",
+    "district-en": "Singhanakhon",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "735",
+    "district-th": "สิรินธร",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Sirindhorn",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "736",
+    "district-th": "โซ่พิสัย",
+    "province-th": "บึงกาฬ",
+    "district-en": "So Phisai",
+    "province-en": "Bueng Kan"
+  },
+  {
+    "id": "737",
+    "district-th": "เสริมงาม",
+    "province-th": "ลำปาง",
+    "district-en": "Soem Ngam",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "738",
+    "district-th": "เสิงสาง",
+    "province-th": "นครราชสีมา",
+    "district-en": "Soeng Sang",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "739",
+    "district-th": "สอยดาว",
+    "province-th": "จันทบุรี",
+    "district-en": "Soi Dao",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "740",
+    "district-th": "สมเด็จ",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Somdet",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "741",
+    "district-th": "สอง",
+    "province-th": "แพร่",
+    "district-en": "Song",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "742",
+    "district-th": "ส่องดาว",
+    "province-th": "สกลนคร",
+    "district-en": "Song Dao",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "743",
+    "district-th": "สองแคว",
+    "province-th": "น่าน",
+    "district-en": "Song Khwae",
+    "province-en": "Nan"
+  },
+  {
+    "id": "744",
+    "district-th": "สองพี่น้อง",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "Song Phi Nong",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "745",
+    "district-th": "สบเมย",
+    "province-th": "แม่ฮ่องสอน",
+    "district-en": "Sop Moei",
+    "province-en": "Mae Hong Son"
+  },
+  {
+    "id": "746",
+    "district-th": "สบปราบ",
+    "province-th": "ลำปาง",
+    "district-en": "Sop Prap",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "747",
+    "district-th": "ศรีนครินทร์",
+    "province-th": "พัทลุง",
+    "district-en": "Srinagarindra",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "748",
+    "district-th": "สุไหงโก-ลก",
+    "province-th": "นราธิวาส",
+    "district-en": "Su-ngai Kolok",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "749",
+    "district-th": "สุไหงปาดี",
+    "province-th": "นราธิวาส",
+    "district-en": "Su-ngai Padi",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "750",
+    "district-th": "สวนผึ้ง",
+    "province-th": "ราชบุรี",
+    "district-en": "Suan Phueng",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "751",
+    "district-th": "สุขสำราญ",
+    "province-th": "ระนอง",
+    "district-en": "Suk Samran",
+    "province-en": "Ranong"
+  },
+  {
+    "id": "752",
+    "district-th": "สุคิริน",
+    "province-th": "นราธิวาส",
+    "district-en": "Sukhirin",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "753",
+    "district-th": "สูงเม่น",
+    "province-th": "แพร่",
+    "district-en": "Sung Men",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "754",
+    "district-th": "สูงเนิน",
+    "province-th": "นครราชสีมา",
+    "district-en": "Sung Noen",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "755",
+    "district-th": "สุวรรณคูหา",
+    "province-th": "หนองบัวลำภู",
+    "district-en": "Suwannakhuha",
+    "province-en": "Nong Bua Lamphu"
+  },
+  {
+    "id": "756",
+    "district-th": "สุวรรณภูมิ",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Suwannaphum",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "757",
+    "district-th": "ตาพระยา",
+    "province-th": "สระแก้ว",
+    "district-en": "Ta Phraya",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "758",
+    "district-th": "ตากใบ",
+    "province-th": "นราธิวาส",
+    "district-en": "Tak Bai",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "759",
+    "district-th": "ตากฟ้า",
+    "province-th": "นครสวรรค์",
+    "district-en": "Tak Fa",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "760",
+    "district-th": "ตาคลี",
+    "province-th": "นครสวรรค์",
+    "district-en": "Takhli",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "761",
+    "district-th": "ตะกั่วป่า",
+    "province-th": "พังงา",
+    "district-en": "Takua Pa",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "762",
+    "district-th": "ตะกั่วทุ่ง",
+    "province-th": "พังงา",
+    "district-en": "Takua Thung",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "763",
+    "district-th": "ตะโหมด",
+    "province-th": "พัทลุง",
+    "district-en": "Tamot",
+    "province-en": "Phatthalung"
+  },
+  {
+    "id": "764",
+    "district-th": "ตาลสุม",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Tan Sum",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "765",
+    "district-th": "เต่างอย",
+    "province-th": "สกลนคร",
+    "district-en": "Tao Ngoi",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "766",
+    "district-th": "ตะพานหิน",
+    "province-th": "พิจิตร",
+    "district-en": "Taphan Hin",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "767",
+    "district-th": "ท่าบ่อ",
+    "province-th": "หนองคาย",
+    "district-en": "Tha Bo",
+    "province-en": "Nong Khai"
+  },
+  {
+    "id": "768",
+    "district-th": "ท่าชนะ",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Tha Chana",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "769",
+    "district-th": "ท่าช้าง",
+    "province-th": "สิงห์บุรี",
+    "district-en": "Tha Chang",
+    "province-en": "Sing Buri"
+  },
+  {
+    "id": "770",
+    "district-th": "ท่าฉาง",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Tha Chang",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "771",
+    "district-th": "ท่าคันโท",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Tha Khantho",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "772",
+    "district-th": "ท่าลี่",
+    "province-th": "เลย",
+    "district-en": "Tha Li",
+    "province-en": "Loei"
+  },
+  {
+    "id": "773",
+    "district-th": "ท่าหลวง",
+    "province-th": "ลพบุรี",
+    "district-en": "Tha Luang",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "774",
+    "district-th": "ท่าใหม่",
+    "province-th": "จันทบุรี",
+    "district-en": "Tha Mai",
+    "province-en": "Chanthaburi"
+  },
+  {
+    "id": "775",
+    "district-th": "ท่ามะกา",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Tha Maka",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "776",
+    "district-th": "ท่าม่วง",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Tha Muang",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "777",
+    "district-th": "ท่าแพ",
+    "province-th": "สตูล",
+    "district-en": "Tha Phae",
+    "province-en": "Satun"
+  },
+  {
+    "id": "778",
+    "district-th": "ท่าปลา",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Tha Pla",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "779",
+    "district-th": "ท่าเรือ",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Tha Ruea",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "780",
+    "district-th": "ท่าแซะ",
+    "province-th": "ชุมพร",
+    "district-en": "Tha Sae",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "781",
+    "district-th": "ท่าศาลา",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Tha Sala",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "782",
+    "district-th": "ท่าสองยาง",
+    "province-th": "ตาก",
+    "district-en": "Tha Song Yang",
+    "province-en": "Tak"
+  },
+  {
+    "id": "783",
+    "district-th": "ท่าตะเกียบ",
+    "province-th": "ฉะเชิงเทรา",
+    "district-en": "Tha Takiap",
+    "province-en": "Chachoengsao"
+  },
+  {
+    "id": "784",
+    "district-th": "ท่าตะโก",
+    "province-th": "นครสวรรค์",
+    "district-en": "Tha Tako",
+    "province-en": "Nakhon Sawan"
+  },
+  {
+    "id": "785",
+    "district-th": "ท่าตูม",
+    "province-th": "สุรินทร์",
+    "district-en": "Tha Tum",
+    "province-en": "Surin"
+  },
+  {
+    "id": "786",
+    "district-th": "ท่าอุเทน",
+    "province-th": "นครพนม",
+    "district-en": "Tha Uthen",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "787",
+    "district-th": "ท่าวังผา",
+    "province-th": "น่าน",
+    "district-en": "Tha Wang Pha",
+    "province-en": "Nan"
+  },
+  {
+    "id": "788",
+    "district-th": "ท่าวุ้ง",
+    "province-th": "ลพบุรี",
+    "district-en": "Tha Wung",
+    "province-en": "Lopburi"
+  },
+  {
+    "id": "789",
+    "district-th": "ท่ายาง",
+    "province-th": "เพชรบุรี",
+    "district-en": "Tha Yang",
+    "province-en": "Phetchaburi"
+  },
+  {
+    "id": "790",
+    "district-th": "ไทยเจริญ",
+    "province-th": "ยโสธร",
+    "district-en": "Thai Charoen",
+    "province-en": "Yasothon"
+  },
+  {
+    "id": "791",
+    "district-th": "ท้ายเหมือง",
+    "province-th": "พังงา",
+    "district-en": "Thai Mueang",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "792",
+    "district-th": "ถลาง",
+    "province-th": "ภูเก็ต",
+    "district-en": "Thalang",
+    "province-en": "Phuket"
+  },
+  {
+    "id": "793",
+    "district-th": "ถ้ำพรรณรา",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Tham Phannara",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "794",
+    "district-th": "ธารโต",
+    "province-th": "ยะลา",
+    "district-en": "Than To",
+    "province-en": "Yala"
+  },
+  {
+    "id": "795",
+    "district-th": "ธัญบุรี",
+    "province-th": "ปทุมธานี",
+    "district-en": "Thanyaburi",
+    "province-en": "Pathum Thani"
+  },
+  {
+    "id": "796",
+    "district-th": "ทับคล้อ",
+    "province-th": "พิจิตร",
+    "district-en": "Thap Khlo",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "797",
+    "district-th": "ทับปุด",
+    "province-th": "พังงา",
+    "district-en": "Thap Put",
+    "province-en": "Phang Nga"
+  },
+  {
+    "id": "798",
+    "district-th": "ทับสะแก",
+    "province-th": "ประจวบคีรีขันธ์",
+    "district-en": "Thap Sakae",
+    "province-en": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "799",
+    "district-th": "ทัพทัน",
+    "province-th": "อุทัยธานี",
+    "district-en": "Thap Than",
+    "province-en": "Uthai Thani"
+  },
+  {
+    "id": "800",
+    "district-th": "ธาตุพนม",
+    "province-th": "นครพนม",
+    "district-en": "That Phanom",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "801",
+    "district-th": "ธวัชบุรี",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Thawat Buri",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "802",
+    "district-th": "เทพสถิต",
+    "province-th": "ชัยภูมิ",
+    "district-en": "Thep Sathit",
+    "province-en": "Chaiyaphum"
+  },
+  {
+    "id": "803",
+    "district-th": "เทพา",
+    "province-th": "สงขลา",
+    "district-en": "Thepha",
+    "province-en": "Songkhla"
+  },
+  {
+    "id": "804",
+    "district-th": "เทพารักษ์",
+    "province-th": "นครราชสีมา",
+    "district-en": "Thepharak",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "805",
+    "district-th": "เถิน",
+    "province-th": "ลำปาง",
+    "district-en": "Thoen",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "806",
+    "district-th": "เทิง",
+    "province-th": "เชียงราย",
+    "district-en": "Thoeng",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "807",
+    "district-th": "ทองผาภูมิ",
+    "province-th": "กาญจนบุรี",
+    "district-en": "Thong Pha Phum",
+    "province-en": "Kanchanaburi"
+  },
+  {
+    "id": "808",
+    "district-th": "ทองแสนขัน",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Thong Saen Khan",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "809",
+    "district-th": "ทุ่งช้าง",
+    "province-th": "น่าน",
+    "district-en": "Thung Chang",
+    "province-en": "Nan"
+  },
+  {
+    "id": "810",
+    "district-th": "ทุ่งฝน",
+    "province-th": "อุดรธานี",
+    "district-en": "Thung Fon",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "811",
+    "district-th": "ทุ่งหัวช้าง",
+    "province-th": "ลำพูน",
+    "district-en": "Thung Hua Chang",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "812",
+    "district-th": "ทุ่งเขาหลวง",
+    "province-th": "ร้อยเอ็ด",
+    "district-en": "Thung Khao Luang",
+    "province-en": "Roi Et"
+  },
+  {
+    "id": "813",
+    "district-th": "ทุ่งเสลี่ยม",
+    "province-th": "สุโขทัย",
+    "district-en": "Thung Saliam",
+    "province-en": "Sukhothai"
+  },
+  {
+    "id": "814",
+    "district-th": "ทุ่งศรีอุดม",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Thung Si Udom",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "815",
+    "district-th": "ทุ่งสง",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Thung Song",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "816",
+    "district-th": "ทุ่งตะโก",
+    "province-th": "ชุมพร",
+    "district-en": "Thung Tako",
+    "province-en": "Chumphon"
+  },
+  {
+    "id": "817",
+    "district-th": "ทุ่งหว้า",
+    "province-th": "สตูล",
+    "district-en": "Thung Wa",
+    "province-en": "Satun"
+  },
+  {
+    "id": "818",
+    "district-th": "ทุ่งใหญ่",
+    "province-th": "นครศรีธรรมราช",
+    "district-en": "Thung Yai",
+    "province-en": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "819",
+    "district-th": "ทุ่งยางแดง",
+    "province-th": "ปัตตานี",
+    "district-en": "Thung Yang Daeng",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "820",
+    "district-th": "ตระการพืชผล",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Trakan Phuet Phon",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "821",
+    "district-th": "ตรอน",
+    "province-th": "อุตรดิตถ์",
+    "district-en": "Tron",
+    "province-en": "Uttaradit"
+  },
+  {
+    "id": "822",
+    "district-th": "อู่ทอง",
+    "province-th": "สุพรรณบุรี",
+    "district-en": "U Thong",
+    "province-en": "Suphan Buri"
+  },
+  {
+    "id": "823",
+    "district-th": "อุบลรัตน์",
+    "province-th": "ขอนแก่น",
+    "district-en": "Ubolratana",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "824",
+    "district-th": "อุ้มผาง",
+    "province-th": "ตาก",
+    "district-en": "Umphang",
+    "province-en": "Tak"
+  },
+  {
+    "id": "825",
+    "district-th": "อุทัย",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Uthai",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "826",
+    "district-th": "อุทุมพรพิสัย",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Uthumphon Phisai",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "827",
+    "district-th": "วิภาวดี",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Vibhavadi",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "828",
+    "district-th": "วชิรบารมี",
+    "province-th": "พิจิตร",
+    "district-en": "Wachirabarami",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "829",
+    "district-th": "แว้ง",
+    "province-th": "นราธิวาส",
+    "district-en": "Waeng",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "830",
+    "district-th": "แวงน้อย",
+    "province-th": "ขอนแก่น",
+    "district-en": "Waeng Noi",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "831",
+    "district-th": "แวงใหญ่",
+    "province-th": "ขอนแก่น",
+    "district-en": "Waeng Yai",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "832",
+    "district-th": "หว้านใหญ่",
+    "province-th": "มุกดาหาร",
+    "district-en": "Wan Yai",
+    "province-en": "Mukdahan"
+  },
+  {
+    "id": "833",
+    "district-th": "วังจันทร์",
+    "province-th": "ระยอง",
+    "district-en": "Wang Chan",
+    "province-en": "Rayong"
+  },
+  {
+    "id": "834",
+    "district-th": "วังเจ้า",
+    "province-th": "ตาก",
+    "district-en": "Wang Chao",
+    "province-en": "Tak"
+  },
+  {
+    "id": "835",
+    "district-th": "วังชิ้น",
+    "province-th": "แพร่",
+    "district-en": "Wang Chin",
+    "province-en": "Phrae"
+  },
+  {
+    "id": "836",
+    "district-th": "วังหิน",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Wang Hin",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "837",
+    "district-th": "วังม่วง",
+    "province-th": "สระบุรี",
+    "district-en": "Wang Muang",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "838",
+    "district-th": "วังน้ำเขียว",
+    "province-th": "นครราชสีมา",
+    "district-en": "Wang Nam Khiao",
+    "province-en": "Nakhon Ratchasima"
+  },
+  {
+    "id": "839",
+    "district-th": "วังน้ำเย็น",
+    "province-th": "สระแก้ว",
+    "district-en": "Wang Nam Yen",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "840",
+    "district-th": "วังน้อย",
+    "province-th": "พระนครศรีอยุธยา",
+    "district-en": "Wang Noi",
+    "province-en": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "841",
+    "district-th": "วังเหนือ",
+    "province-th": "ลำปาง",
+    "district-en": "Wang Nuea",
+    "province-en": "Lampang"
+  },
+  {
+    "id": "842",
+    "district-th": "วังโป่ง",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Wang Pong",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "843",
+    "district-th": "วังทรายพูน",
+    "province-th": "พิจิตร",
+    "district-en": "Wang Sai Phun",
+    "province-en": "Phichit"
+  },
+  {
+    "id": "844",
+    "district-th": "วังสามหมอ",
+    "province-th": "อุดรธานี",
+    "district-en": "Wang Sam Mo",
+    "province-en": "Udon Thani"
+  },
+  {
+    "id": "845",
+    "district-th": "วังสะพุง",
+    "province-th": "เลย",
+    "district-en": "Wang Saphung",
+    "province-en": "Loei"
+  },
+  {
+    "id": "846",
+    "district-th": "วังสมบูรณ์",
+    "province-th": "สระแก้ว",
+    "district-en": "Wang Sombun",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "847",
+    "district-th": "วังทอง",
+    "province-th": "พิษณุโลก",
+    "district-en": "Wang Thong",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "848",
+    "district-th": "วังวิเศษ",
+    "province-th": "ตรัง",
+    "district-en": "Wang Wiset",
+    "province-en": "Trang"
+  },
+  {
+    "id": "849",
+    "district-th": "วังยาง",
+    "province-th": "นครพนม",
+    "district-en": "Wang Yang",
+    "province-en": "Nakhon Phanom"
+  },
+  {
+    "id": "850",
+    "district-th": "วานรนิวาส",
+    "province-th": "สกลนคร",
+    "district-en": "Wanon Niwat",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "851",
+    "district-th": "วาปีปทุม",
+    "province-th": "มหาสารคาม",
+    "district-en": "Wapi Pathum",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "852",
+    "district-th": "วารินชำราบ",
+    "province-th": "อุบลราชธานี",
+    "district-en": "Warin Chamrap",
+    "province-en": "Ubon Ratchathani"
+  },
+  {
+    "id": "853",
+    "district-th": "วาริชภูมิ",
+    "province-th": "สกลนคร",
+    "district-en": "Waritchaphum",
+    "province-en": "Sakon Nakhon"
+  },
+  {
+    "id": "854",
+    "district-th": "วัดโบสถ์",
+    "province-th": "พิษณุโลก",
+    "district-en": "Wat Bot",
+    "province-en": "Phitsanulok"
+  },
+  {
+    "id": "855",
+    "district-th": "วัดเพลง",
+    "province-th": "ราชบุรี",
+    "district-en": "Wat Phleng",
+    "province-en": "Ratchaburi"
+  },
+  {
+    "id": "856",
+    "district-th": "วัดสิงห์",
+    "province-th": "ชัยนาท",
+    "district-en": "Wat Sing",
+    "province-en": "Chai Nat"
+  },
+  {
+    "id": "857",
+    "district-th": "วัฒนานคร",
+    "province-th": "สระแก้ว",
+    "district-en": "Watthana Nakhon",
+    "province-en": "Sa Kaeo"
+  },
+  {
+    "id": "858",
+    "district-th": "เวียงชัย",
+    "province-th": "เชียงราย",
+    "district-en": "Wiang Chai",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "859",
+    "district-th": "เวียงเชียงรุ้ง",
+    "province-th": "เชียงราย",
+    "district-en": "Wiang Chiang Rung",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "860",
+    "district-th": "เวียงแหง",
+    "province-th": "เชียงใหม่",
+    "district-en": "Wiang Haeng",
+    "province-en": "Chiang Mai"
+  },
+  {
+    "id": "861",
+    "district-th": "เวียงแก่น",
+    "province-th": "เชียงราย",
+    "district-en": "Wiang Kaen",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "862",
+    "district-th": "เวียงเก่า",
+    "province-th": "ขอนแก่น",
+    "district-en": "Wiang Kao",
+    "province-en": "Khon Kaen"
+  },
+  {
+    "id": "863",
+    "district-th": "เวียงหนองล่อง",
+    "province-th": "ลำพูน",
+    "district-en": "Wiang Nong Long",
+    "province-en": "Lamphun"
+  },
+  {
+    "id": "864",
+    "district-th": "เวียงป่าเป้า",
+    "province-th": "เชียงราย",
+    "district-en": "Wiang Pa Pao",
+    "province-en": "Chiang Rai"
+  },
+  {
+    "id": "865",
+    "district-th": "เวียงสา",
+    "province-th": "น่าน",
+    "district-en": "Wiang Sa",
+    "province-en": "Nan"
+  },
+  {
+    "id": "866",
+    "district-th": "เวียงสระ",
+    "province-th": "สุราษฎร์ธานี",
+    "district-en": "Wiang Sa",
+    "province-en": "Surat Thani"
+  },
+  {
+    "id": "867",
+    "district-th": "วิเชียรบุรี",
+    "province-th": "เพชรบูรณ์",
+    "district-en": "Wichian Buri",
+    "province-en": "Phetchabun"
+  },
+  {
+    "id": "868",
+    "district-th": "วิหารแดง",
+    "province-th": "สระบุรี",
+    "district-en": "Wihan Daeng",
+    "province-en": "Saraburi"
+  },
+  {
+    "id": "869",
+    "district-th": "วิเศษชัยชาญ",
+    "province-th": "อ่างทอง",
+    "district-en": "Wiset Chai Chan",
+    "province-en": "Ang Thong"
+  },
+  {
+    "id": "870",
+    "district-th": "ยะหา",
+    "province-th": "ยะลา",
+    "district-en": "Yaha",
+    "province-en": "Yala"
+  },
+  {
+    "id": "871",
+    "district-th": "ย่านตาขาว",
+    "province-th": "ตรัง",
+    "district-en": "Yan Ta Khao",
+    "province-en": "Trang"
+  },
+  {
+    "id": "872",
+    "district-th": "ยางชุมน้อย",
+    "province-th": "ศรีสะเกษ",
+    "district-en": "Yang Chum Noi",
+    "province-en": "Sisaket"
+  },
+  {
+    "id": "873",
+    "district-th": "ยางสีสุราช",
+    "province-th": "มหาสารคาม",
+    "district-en": "Yang Sisurat",
+    "province-en": "Maha Sarakham"
+  },
+  {
+    "id": "874",
+    "district-th": "ยางตลาด",
+    "province-th": "กาฬสินธุ์",
+    "district-en": "Yang Talat",
+    "province-en": "Kalasin"
+  },
+  {
+    "id": "875",
+    "district-th": "ยะรัง",
+    "province-th": "ปัตตานี",
+    "district-en": "Yarang",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "876",
+    "district-th": "ยะหริ่ง",
+    "province-th": "ปัตตานี",
+    "district-en": "Yaring",
+    "province-en": "Pattani"
+  },
+  {
+    "id": "877",
+    "district-th": "ยี่งอ",
+    "province-th": "นราธิวาส",
+    "district-en": "Yi-ngo",
+    "province-en": "Narathiwat"
+  },
+  {
+    "id": "878",
+    "district-th": "บางบอน",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Bon",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "879",
+    "district-th": "บางกะปิ",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Kapi",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "880",
+    "district-th": "บางแค",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Khae",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "881",
+    "district-th": "บางเขน",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Khen",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "882",
+    "district-th": "บางคอแหลม",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Kho Laem",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "883",
+    "district-th": "บางขุนเทียน",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Khun Thian",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "884",
+    "district-th": "บางนา",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Na",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "885",
+    "district-th": "บางพลัด",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Phlat",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "886",
+    "district-th": "บางรัก",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Rak",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "887",
+    "district-th": "บางซื่อ",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bang Sue",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "888",
+    "district-th": "บางกอกน้อย",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bangkok Noi",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "889",
+    "district-th": "บางกอกใหญ่",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bangkok Yai",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "890",
+    "district-th": "บึงกุ่ม",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Bueng Kum",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "891",
+    "district-th": "จตุจักร",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Chatuchak",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "892",
+    "district-th": "จอมทอง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Chom Thong",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "893",
+    "district-th": "ดินแดง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Din Daeng",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "894",
+    "district-th": "ดอนเมือง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Don Mueang",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "895",
+    "district-th": "ดุสิต",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Dusit",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "896",
+    "district-th": "ห้วยขวาง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Huai Khwang",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "897",
+    "district-th": "คันนายาว",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Khan Na Yao",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "898",
+    "district-th": "คลองสามวา",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Khlong Sam Wa",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "899",
+    "district-th": "คลองสาน",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Khlong San",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "900",
+    "district-th": "คลองเตย",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Khlong Toei",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "901",
+    "district-th": "หลักสี่",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Lak Si",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "902",
+    "district-th": "ลาดกระบัง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Lat Krabang",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "903",
+    "district-th": "ลาดพร้าว",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Lat Phrao",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "904",
+    "district-th": "มีนบุรี",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Min Buri",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "905",
+    "district-th": "หนองจอก",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Nong Chok",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "906",
+    "district-th": "หนองแขม",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Nong Khaem",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "907",
+    "district-th": "ปทุมวัน",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Pathum Wan",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "908",
+    "district-th": "ภาษีเจริญ",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Phasi Charoen",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "909",
+    "district-th": "พญาไท",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Phaya Thai",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "910",
+    "district-th": "พระโขนง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Phra Khanong",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "911",
+    "district-th": "พระนคร",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Phra Nakhon",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "912",
+    "district-th": "ป้อมปราบศัตรูพ่าย",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Pom Prap Sattru Phai",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "913",
+    "district-th": "ประเวศ",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Prawet",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "914",
+    "district-th": "ราษฏร์บูรณะ",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Rat Burana",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "915",
+    "district-th": "ราชเทวี",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Ratchathewi",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "916",
+    "district-th": "สายไหม",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Sai Mai",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "917",
+    "district-th": "สัมพันธวงศ์",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Samphanthawong",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "918",
+    "district-th": "สะพานสูง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Saphan Sung",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "919",
+    "district-th": "สาทร",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Sathon",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "920",
+    "district-th": "สวนหลวง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Suan Luang",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "921",
+    "district-th": "ตลิ่งชัน",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Taling Chan",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "922",
+    "district-th": "ทวีวัฒนา",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Thawi Watthana",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "923",
+    "district-th": "ธนบุรี",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Thon Buri",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "924",
+    "district-th": "ทุ่งครุ",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Thung Khru",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "925",
+    "district-th": "วังทองหลาง",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Wang Thonglang",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "926",
+    "district-th": "วัฒนา",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Watthana",
+    "province-en": "Bangkok"
+  },
+  {
+    "id": "927",
+    "district-th": "ยานนาวา",
+    "province-th": "กรุงเทพฯ",
+    "district-en": "Yan Nawa",
+    "province-en": "Bangkok"
+  }
+]
