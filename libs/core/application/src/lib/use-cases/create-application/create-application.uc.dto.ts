@@ -1,1 +1,1 @@
-export interface CreateApplicationDTO {}
+export interface CreateApplicationUseCaseDTO {}

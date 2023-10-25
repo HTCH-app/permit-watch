@@ -1,22 +1,20 @@
 import { expect, test, describe, Mock } from 'vitest';
-import { CreateApplicationUseCase } from './create-application.uc';
-import { ApplicationRepoTrait } from '@permit-watch/domain';
+import { SignUpUserUseCase } from './signup-user.uc';
+import { UserServiceTrait } from '@permit-watch/domain';
 import { Ok } from 'types-ddd';
 
-type MockedApplicationRepositoryTrait = ApplicationRepoTrait & {
-  fetchForId: Mock;
-  save: Mock;
+type MockedUserServiceTrait = UserServiceTrait & {
+  registerUser: Mock;
 };
 
-const MockApplicationRepo = vi.fn();
-MockApplicationRepo.prototype.fetchForId = vi.fn();
-MockApplicationRepo.prototype.save = vi.fn();
+const MockUserService = vi.fn();
+MockUserService.prototype.registerUser = vi.fn();
 
 describe('UC: CreateApplication', () => {
-  let applicationRepo: MockedApplicationRepositoryTrait;
+  let userService: MockedUserServiceTrait;
 
   beforeEach(() => {
-    applicationRepo = new MockApplicationRepo();
+    userService = new MockUserService();
   });
 
   afterEach(() => {
@@ -24,32 +22,32 @@ describe('UC: CreateApplication', () => {
   });
 
   test('exists', () => {
-    const useCase = new CreateApplicationUseCase({
-      applicationRepo,
+    const useCase = new SignUpUserUseCase({
+      userService,
     });
     expect(useCase).toBeDefined();
   });
 
   test('can be executed', async () => {
     // Arrange
-    applicationRepo.save.mockResolvedValueOnce(Ok());
-    const useCase = new CreateApplicationUseCase({
-      applicationRepo,
+    userService.registerUser.mockResolvedValueOnce(Ok());
+    const useCase = new SignUpUserUseCase({
+      userService,
     });
 
     // Act
     const result = await useCase.execute({});
 
-    // Assert
+    // Expect
     expect(result.isOk()).toBeTruthy();
-    expect(applicationRepo.save).toBeCalledTimes(1);
+    expect(userService.registerUser).toBeCalledTimes(1);
   });
 
   // test('can be executed with valid input', async () => {
   //   // Arrange
-  //   applicationRepo.save.mockResolvedValueOnce(Ok());
+  //   userService.save.mockResolvedValueOnce(Ok());
   //   const useCase = new CreateNoteUseCase({
-  //     applicationRepo,
+  //     userService,
   //   });
 
   //   // Act
@@ -64,14 +62,14 @@ describe('UC: CreateApplication', () => {
 
   //   // Expect
   //   expect(result.isOk()).toBeTruthy();
-  //   expect(applicationRepo.save).toBeCalledTimes(1);
+  //   expect(userService.save).toBeCalledTimes(1);
   // });
 
   // test('can be executed with invalid input', async () => {
   //   // Arrange
-  //   applicationRepo.save.mockResolvedValueOnce(Ok());
+  //   userService.save.mockResolvedValueOnce(Ok());
   //   const useCase = new CreateNoteUseCase({
-  //     applicationRepo,
+  //     userService,
   //   });
 
   //   // Act
@@ -83,6 +81,6 @@ describe('UC: CreateApplication', () => {
 
   //   // Expect
   //   expect(result.isFail()).toBeTruthy();
-  //   expect(applicationRepo.save).not.toBeCalled();
+  //   expect(userService.save).not.toBeCalled();
   // });
 });
