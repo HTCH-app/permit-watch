@@ -9,6 +9,7 @@ export interface ApplicationProps {
   statusLog: ApplicationStatusLog;
   permitType: PermitType;
   buildingType: BuildingType;
+  applicantId: UID;
 }
 
 export class Application extends Aggregate<ApplicationProps> {
@@ -21,7 +22,9 @@ export class Application extends Aggregate<ApplicationProps> {
     return Ok(application);
   }
 
-  public static createWithDefaults(props?: Partial<ApplicationProps>) {
+  public static createWithDefaults(
+    props: Partial<ApplicationProps> & Pick<ApplicationProps, 'applicantId'>
+  ) {
     const propsWithDefaults: ApplicationProps = {
       statusLog: ApplicationStatusLog.createWithDefaults().value(),
       permitType: PermitType.createWithDefaults().value(),

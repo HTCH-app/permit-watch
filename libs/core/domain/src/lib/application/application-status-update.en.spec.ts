@@ -20,6 +20,7 @@ describe('En: ApplicationStatusUpdate', () => {
       const result = ApplicationStatusUpdate.createWithDefaults({
         when,
       });
+
       const statusUpdate = result.value();
       expect(result.isOk()).toBeTruthy();
       expect(statusUpdate.get('when')).toEqual(when);
