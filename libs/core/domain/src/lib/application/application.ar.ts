@@ -1,10 +1,12 @@
 import { Aggregate, IResult, Ok, UID } from 'types-ddd';
 import { ApplicationStatusLog } from './application-status-log.vo';
 import { ApplicationStatusUpdate } from './application-status-update.en';
+import { PermitType } from './permit-type.vo';
 
 export interface ApplicationProps {
   id?: UID;
   statusLog: ApplicationStatusLog;
+  permitType: PermitType;
 }
 
 export class Application extends Aggregate<ApplicationProps> {
@@ -20,6 +22,7 @@ export class Application extends Aggregate<ApplicationProps> {
   public static createWithDefaults(props?: Partial<ApplicationProps>) {
     const propsWithDefaults: ApplicationProps = {
       statusLog: ApplicationStatusLog.createWithDefaults().value(),
+      permitType: PermitType.createWithDefaults().value(),
       ...props,
     };
     return this.create(propsWithDefaults);
