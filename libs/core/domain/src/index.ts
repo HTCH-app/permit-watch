@@ -1,2 +1,2 @@
-export * as application from './lib/application';
-export * as user from './lib/user';
+export * from './lib/application';
+export * from './lib/user';
